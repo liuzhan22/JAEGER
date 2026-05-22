@@ -1,0 +1,3220 @@
+{
+  "annotation": [
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix002_class1_src2_seg0000.wav",
+      "text": "azimuth: -13.9; elevation: -10.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src1_seg0001.wav",
+      "text": "azimuth: 10.2; elevation: 0.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src1_seg0002.wav",
+      "text": "azimuth: 6.6; elevation: -1.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src1_seg0003.wav",
+      "text": "azimuth: -12.9; elevation: -0.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src1_seg0004.wav",
+      "text": "azimuth: 3.6; elevation: -1.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src1_seg0005.wav",
+      "text": "azimuth: 0.8; elevation: 0.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src1_seg0006.wav",
+      "text": "azimuth: 9.4; elevation: 0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src2_seg0007.wav",
+      "text": "azimuth: -19.7; elevation: 2.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src2_seg0008.wav",
+      "text": "azimuth: 11.2; elevation: 0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix006_class1_src2_seg0009.wav",
+      "text": "azimuth: -21.1; elevation: -10.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix014_class0_src2_seg0010.wav",
+      "text": "azimuth: 131.5; elevation: -14.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix014_class1_src1_seg0011.wav",
+      "text": "azimuth: 159.0; elevation: -16.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix014_class1_src1_seg0012.wav",
+      "text": "azimuth: 159.6; elevation: -17.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix014_class1_src1_seg0013_chunk00.wav",
+      "text": "azimuth: 160.9; elevation: -17.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix014_class1_src1_seg0014_chunk01.wav",
+      "text": "azimuth: 160.9; elevation: -17.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix016_class0_src2_seg0015.wav",
+      "text": "azimuth: -70.9; elevation: -27.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix016_class0_src2_seg0016.wav",
+      "text": "azimuth: -70.5; elevation: -25.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix016_class1_src1_seg0017.wav",
+      "text": "azimuth: -32.1; elevation: -23.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix001_class1_src1_seg0018_chunk00.wav",
+      "text": "azimuth: 16.4; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix001_class1_src1_seg0019_chunk01.wav",
+      "text": "azimuth: 16.4; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix001_class1_src1_seg0020_chunk02.wav",
+      "text": "azimuth: 16.4; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix001_class1_src2_seg0021_chunk00.wav",
+      "text": "azimuth: -19.5; elevation: -9.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix001_class1_src2_seg0022_chunk01.wav",
+      "text": "azimuth: -19.5; elevation: -9.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src1_seg0023_chunk00.wav",
+      "text": "azimuth: 13.1; elevation: -13.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src1_seg0024_chunk01.wav",
+      "text": "azimuth: 13.1; elevation: -13.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src1_seg0025.wav",
+      "text": "azimuth: 13.9; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src1_seg0026.wav",
+      "text": "azimuth: -41.6; elevation: 4.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src1_seg0027.wav",
+      "text": "azimuth: 9.4; elevation: -14.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src2_seg0028.wav",
+      "text": "azimuth: -11.8; elevation: -13.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src2_seg0029.wav",
+      "text": "azimuth: -9.6; elevation: -15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix007_class1_src2_seg0030.wav",
+      "text": "azimuth: -10.4; elevation: -14.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix011_class1_src2_seg0031.wav",
+      "text": "azimuth: -10.1; elevation: -15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix003_class0_src1_seg0032_chunk00.wav",
+      "text": "azimuth: -69.2; elevation: -21.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix003_class0_src1_seg0033_chunk01.wav",
+      "text": "azimuth: -69.2; elevation: -21.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix003_class0_src1_seg0034_chunk02.wav",
+      "text": "azimuth: -69.2; elevation: -21.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix003_class1_src2_seg0035_chunk00.wav",
+      "text": "azimuth: 125.3; elevation: -13.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix003_class1_src2_seg0036_chunk01.wav",
+      "text": "azimuth: 125.3; elevation: -13.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix003_class1_src2_seg0037_chunk02.wav",
+      "text": "azimuth: 125.3; elevation: -13.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class0_src1_seg0038.wav",
+      "text": "azimuth: 132.8; elevation: -5.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class0_src1_seg0039_chunk00.wav",
+      "text": "azimuth: 120.2; elevation: -16.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class0_src1_seg0040_chunk01.wav",
+      "text": "azimuth: 120.2; elevation: -16.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class0_src1_seg0041_chunk02.wav",
+      "text": "azimuth: 120.2; elevation: -16.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class0_src1_seg0042_chunk03.wav",
+      "text": "azimuth: 120.2; elevation: -16.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class0_src1_seg0043_chunk04.wav",
+      "text": "azimuth: 120.2; elevation: -16.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class0_src1_seg0044_chunk05.wav",
+      "text": "azimuth: 120.2; elevation: -16.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class1_src2_seg0045.wav",
+      "text": "azimuth: 164.1; elevation: -3.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class1_src2_seg0046.wav",
+      "text": "azimuth: 154.2; elevation: -22.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class1_src2_seg0047_chunk00.wav",
+      "text": "azimuth: 154.8; elevation: -23.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix001_class1_src2_seg0048_chunk01.wav",
+      "text": "azimuth: 154.8; elevation: -23.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class0_src2_seg0049_chunk00.wav",
+      "text": "azimuth: 121.1; elevation: -17.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class0_src2_seg0050_chunk01.wav",
+      "text": "azimuth: 121.1; elevation: -17.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class0_src2_seg0051.wav",
+      "text": "azimuth: -5.3; elevation: -9.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class0_src2_seg0052.wav",
+      "text": "azimuth: 122.0; elevation: -17.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class1_src1_seg0053_chunk00.wav",
+      "text": "azimuth: 152.6; elevation: -21.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class1_src1_seg0054_chunk01.wav",
+      "text": "azimuth: 152.6; elevation: -21.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class1_src1_seg0055_chunk02.wav",
+      "text": "azimuth: 152.6; elevation: -21.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix006_class1_src1_seg0056.wav",
+      "text": "azimuth: 156.0; elevation: -21.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix004_class0_src2_seg0057.wav",
+      "text": "azimuth: 169.3; elevation: -23.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix004_class0_src2_seg0058_chunk00.wav",
+      "text": "azimuth: 167.1; elevation: -22.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix004_class0_src2_seg0059_chunk01.wav",
+      "text": "azimuth: 167.1; elevation: -22.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix004_class0_src2_seg0060_chunk02.wav",
+      "text": "azimuth: 167.1; elevation: -22.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix004_class0_src2_seg0061.wav",
+      "text": "azimuth: 166.7; elevation: -22.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix004_class1_src1_seg0062_chunk00.wav",
+      "text": "azimuth: -63.0; elevation: -20.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix004_class1_src1_seg0063_chunk01.wav",
+      "text": "azimuth: -63.0; elevation: -20.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix005_class1_src1_seg0064.wav",
+      "text": "azimuth: -26.4; elevation: 2.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix005_class1_src1_seg0065_chunk00.wav",
+      "text": "azimuth: -17.5; elevation: -10.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix005_class1_src1_seg0066_chunk01.wav",
+      "text": "azimuth: -17.5; elevation: -10.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix005_class1_src2_seg0067_chunk00.wav",
+      "text": "azimuth: 13.5; elevation: -5.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix005_class1_src2_seg0068_chunk01.wav",
+      "text": "azimuth: 13.5; elevation: -5.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix005_class1_src2_seg0069_chunk02.wav",
+      "text": "azimuth: 13.5; elevation: -5.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class0_src1_seg0070_chunk00.wav",
+      "text": "azimuth: 120.1; elevation: -14.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class0_src1_seg0071_chunk01.wav",
+      "text": "azimuth: 120.1; elevation: -14.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class0_src1_seg0072_chunk02.wav",
+      "text": "azimuth: 120.1; elevation: -14.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class0_src1_seg0073_chunk03.wav",
+      "text": "azimuth: 120.1; elevation: -14.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class0_src1_seg0074_chunk04.wav",
+      "text": "azimuth: 120.1; elevation: -14.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class1_src2_seg0075_chunk00.wav",
+      "text": "azimuth: 161.6; elevation: -25.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class1_src2_seg0076_chunk01.wav",
+      "text": "azimuth: 161.6; elevation: -25.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix002_class1_src2_seg0077_chunk02.wav",
+      "text": "azimuth: 161.6; elevation: -25.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src1_seg0078.wav",
+      "text": "azimuth: 13.3; elevation: 1.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src1_seg0079.wav",
+      "text": "azimuth: 23.7; elevation: 2.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src1_seg0080_chunk00.wav",
+      "text": "azimuth: 17.5; elevation: -12.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src1_seg0081_chunk01.wav",
+      "text": "azimuth: 17.5; elevation: -12.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src2_seg0082_chunk00.wav",
+      "text": "azimuth: -17.7; elevation: -10.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src2_seg0083_chunk01.wav",
+      "text": "azimuth: -17.7; elevation: -10.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src2_seg0084_chunk02.wav",
+      "text": "azimuth: -17.7; elevation: -10.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix004_class1_src2_seg0085_chunk03.wav",
+      "text": "azimuth: -17.7; elevation: -10.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix011_class0_src2_seg0086.wav",
+      "text": "azimuth: 156.3; elevation: -20.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix011_class0_src2_seg0087.wav",
+      "text": "azimuth: 160.9; elevation: -18.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix011_class1_src1_seg0088.wav",
+      "text": "azimuth: 110.3; elevation: -12.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix011_class1_src1_seg0089.wav",
+      "text": "azimuth: 112.8; elevation: -13.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix010_class0_src2_seg0090.wav",
+      "text": "azimuth: 156.2; elevation: -19.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix010_class0_src2_seg0091.wav",
+      "text": "azimuth: 164.8; elevation: -21.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix010_class0_src2_seg0092.wav",
+      "text": "azimuth: 168.2; elevation: -22.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix010_class0_src2_seg0093.wav",
+      "text": "azimuth: 170.5; elevation: -21.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix010_class1_src1_seg0094.wav",
+      "text": "azimuth: 114.0; elevation: -13.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix015_class0_src2_seg0095.wav",
+      "text": "azimuth: -135.4; elevation: -16.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix015_class0_src2_seg0096.wav",
+      "text": "azimuth: -142.6; elevation: -18.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix015_class0_src2_seg0097.wav",
+      "text": "azimuth: -142.5; elevation: -15.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix015_class1_src1_seg0098.wav",
+      "text": "azimuth: 114.6; elevation: -15.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix012_class1_src2_seg0099.wav",
+      "text": "azimuth: -13.5; elevation: -11.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix005_class0_src1_seg0100_chunk00.wav",
+      "text": "azimuth: 120.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix005_class0_src1_seg0101_chunk01.wav",
+      "text": "azimuth: 120.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix005_class1_src2_seg0102.wav",
+      "text": "azimuth: 152.2; elevation: -21.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix005_class1_src2_seg0103.wav",
+      "text": "azimuth: 149.4; elevation: -20.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix005_class1_src2_seg0104.wav",
+      "text": "azimuth: 3.8; elevation: -3.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix009_class0_src1_seg0105_chunk00.wav",
+      "text": "azimuth: 166.9; elevation: -20.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix009_class0_src1_seg0106_chunk01.wav",
+      "text": "azimuth: 166.9; elevation: -20.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix009_class0_src1_seg0107_chunk02.wav",
+      "text": "azimuth: 166.9; elevation: -20.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix009_class1_src2_seg0108_chunk00.wav",
+      "text": "azimuth: 116.3; elevation: -13.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix009_class1_src2_seg0109_chunk01.wav",
+      "text": "azimuth: 116.3; elevation: -13.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix009_class1_src2_seg0110_chunk02.wav",
+      "text": "azimuth: 116.3; elevation: -13.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix012_class0_src1_seg0111.wav",
+      "text": "azimuth: -102.5; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix012_class1_src2_seg0112.wav",
+      "text": "azimuth: -145.6; elevation: -1.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix014_class1_src1_seg0113.wav",
+      "text": "azimuth: 4.1; elevation: -14.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix014_class1_src1_seg0114.wav",
+      "text": "azimuth: 1.6; elevation: -15.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix014_class1_src2_seg0115.wav",
+      "text": "azimuth: -13.7; elevation: -10.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix003_class1_src1_seg0116.wav",
+      "text": "azimuth: -14.5; elevation: -10.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix003_class1_src2_seg0117_chunk00.wav",
+      "text": "azimuth: 15.0; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room23_mix003_class1_src2_seg0118_chunk01.wav",
+      "text": "azimuth: 15.0; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix013_class0_src1_seg0119.wav",
+      "text": "azimuth: 129.2; elevation: -14.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix013_class0_src1_seg0120.wav",
+      "text": "azimuth: 130.7; elevation: -13.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room24_mix013_class1_src2_seg0121.wav",
+      "text": "azimuth: 157.0; elevation: -16.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class0_src2_seg0122_chunk00.wav",
+      "text": "azimuth: -92.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class0_src2_seg0123_chunk01.wav",
+      "text": "azimuth: -92.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class0_src2_seg0124_chunk02.wav",
+      "text": "azimuth: -92.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class0_src2_seg0125_chunk03.wav",
+      "text": "azimuth: -92.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class0_src2_seg0126_chunk04.wav",
+      "text": "azimuth: -92.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class0_src2_seg0127_chunk05.wav",
+      "text": "azimuth: -92.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src1_seg0128_chunk00.wav",
+      "text": "azimuth: 131.4; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src1_seg0129_chunk01.wav",
+      "text": "azimuth: 131.4; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src1_seg0130_chunk02.wav",
+      "text": "azimuth: 131.4; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src3_seg0131_chunk00.wav",
+      "text": "azimuth: -23.8; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src3_seg0132_chunk01.wav",
+      "text": "azimuth: -23.8; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src3_seg0133_chunk02.wav",
+      "text": "azimuth: -23.8; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src3_seg0134_chunk03.wav",
+      "text": "azimuth: -23.8; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix007_class1_src3_seg0135_chunk04.wav",
+      "text": "azimuth: -23.8; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0136_chunk00.wav",
+      "text": "azimuth: -53.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0137_chunk01.wav",
+      "text": "azimuth: -53.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0138_chunk02.wav",
+      "text": "azimuth: -53.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0139_chunk03.wav",
+      "text": "azimuth: -53.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0140_chunk00.wav",
+      "text": "azimuth: 18.3; elevation: -4.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0141_chunk01.wav",
+      "text": "azimuth: 18.3; elevation: -4.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0142_chunk02.wav",
+      "text": "azimuth: 18.3; elevation: -4.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src2_seg0143_chunk03.wav",
+      "text": "azimuth: 18.3; elevation: -4.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class0_src3_seg0144.wav",
+      "text": "azimuth: 42.7; elevation: 3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class1_src1_seg0145_chunk00.wav",
+      "text": "azimuth: 103.8; elevation: 5.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix003_class1_src1_seg0146_chunk01.wav",
+      "text": "azimuth: 103.8; elevation: 5.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src1_seg0147.wav",
+      "text": "azimuth: -70.3; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src1_seg0148.wav",
+      "text": "azimuth: -71.6; elevation: -7.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src1_seg0149.wav",
+      "text": "azimuth: -71.7; elevation: -7.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src1_seg0150_chunk00.wav",
+      "text": "azimuth: -71.1; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src1_seg0151_chunk01.wav",
+      "text": "azimuth: -71.1; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src2_seg0152_chunk00.wav",
+      "text": "azimuth: -114.2; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src2_seg0153_chunk01.wav",
+      "text": "azimuth: -114.2; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src2_seg0154_chunk02.wav",
+      "text": "azimuth: -114.2; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src3_seg0155.wav",
+      "text": "azimuth: 84.6; elevation: -7.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix003_class1_src3_seg0156.wav",
+      "text": "azimuth: 86.4; elevation: -10.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix008_class1_src1_seg0157_chunk00.wav",
+      "text": "azimuth: 83.8; elevation: -14.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix008_class1_src1_seg0158_chunk01.wav",
+      "text": "azimuth: 83.8; elevation: -14.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix008_class1_src1_seg0159_chunk02.wav",
+      "text": "azimuth: 83.8; elevation: -14.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class0_src2_seg0160_chunk00.wav",
+      "text": "azimuth: -12.8; elevation: -18.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class0_src2_seg0161_chunk01.wav",
+      "text": "azimuth: -12.8; elevation: -18.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class0_src2_seg0162_chunk02.wav",
+      "text": "azimuth: -12.8; elevation: -18.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class0_src2_seg0163_chunk03.wav",
+      "text": "azimuth: -12.8; elevation: -18.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class0_src2_seg0164_chunk04.wav",
+      "text": "azimuth: -12.8; elevation: -18.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class0_src2_seg0165_chunk05.wav",
+      "text": "azimuth: -12.8; elevation: -18.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class1_src1_seg0166_chunk00.wav",
+      "text": "azimuth: 36.9; elevation: -13.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class1_src1_seg0167_chunk01.wav",
+      "text": "azimuth: 36.9; elevation: -13.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class1_src1_seg0168_chunk02.wav",
+      "text": "azimuth: 36.9; elevation: -13.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix004_class1_src1_seg0169_chunk03.wav",
+      "text": "azimuth: 36.9; elevation: -13.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix005_class0_src1_seg0170.wav",
+      "text": "azimuth: -134.9; elevation: 5.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix005_class0_src1_seg0171.wav",
+      "text": "azimuth: 163.6; elevation: 4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix005_class0_src1_seg0172.wav",
+      "text": "azimuth: -173.0; elevation: 4.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix005_class0_src1_seg0173.wav",
+      "text": "azimuth: -179.2; elevation: 5.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix005_class0_src1_seg0174.wav",
+      "text": "azimuth: 19.5; elevation: 6.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0175_chunk00.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0176_chunk01.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0177_chunk02.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0178_chunk03.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0179_chunk04.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0180_chunk05.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0181_chunk06.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class0_src1_seg0182_chunk07.wav",
+      "text": "azimuth: -72.6; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0183_chunk00.wav",
+      "text": "azimuth: -113.3; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0184_chunk01.wav",
+      "text": "azimuth: -113.3; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0185_chunk02.wav",
+      "text": "azimuth: -113.3; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0186_chunk03.wav",
+      "text": "azimuth: -113.3; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0187_chunk04.wav",
+      "text": "azimuth: -113.3; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0188_chunk05.wav",
+      "text": "azimuth: -113.3; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0189_chunk06.wav",
+      "text": "azimuth: -113.3; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src2_seg0190.wav",
+      "text": "azimuth: -112.3; elevation: -8.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0191_chunk00.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0192_chunk01.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0193_chunk02.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0194_chunk03.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0195_chunk04.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0196_chunk05.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0197_chunk06.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix009_class1_src3_seg0198_chunk07.wav",
+      "text": "azimuth: 107.4; elevation: 14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix007_class1_src1_seg0199_chunk00.wav",
+      "text": "azimuth: -79.8; elevation: -15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix007_class1_src1_seg0200_chunk01.wav",
+      "text": "azimuth: -79.8; elevation: -15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix007_class1_src1_seg0201_chunk02.wav",
+      "text": "azimuth: -79.8; elevation: -15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix007_class1_src1_seg0202_chunk03.wav",
+      "text": "azimuth: -79.8; elevation: -15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix003_class1_src1_seg0203_chunk00.wav",
+      "text": "azimuth: 96.6; elevation: -13.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix003_class1_src1_seg0204_chunk01.wav",
+      "text": "azimuth: 96.6; elevation: -13.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix003_class1_src1_seg0205_chunk02.wav",
+      "text": "azimuth: 96.6; elevation: -13.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0206_chunk00.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0207_chunk01.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0208_chunk02.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0209_chunk03.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0210_chunk04.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0211_chunk05.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0212_chunk06.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0213_chunk07.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0214_chunk08.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0215_chunk09.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src1_seg0216_chunk10.wav",
+      "text": "azimuth: 17.4; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src3_seg0217_chunk00.wav",
+      "text": "azimuth: 34.9; elevation: -7.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src3_seg0218_chunk01.wav",
+      "text": "azimuth: 34.9; elevation: -7.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src3_seg0219_chunk02.wav",
+      "text": "azimuth: 34.9; elevation: -7.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src3_seg0220_chunk03.wav",
+      "text": "azimuth: 34.9; elevation: -7.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class0_src3_seg0221_chunk04.wav",
+      "text": "azimuth: 34.9; elevation: -7.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class1_src2_seg0222_chunk00.wav",
+      "text": "azimuth: 165.9; elevation: -4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class1_src2_seg0223_chunk01.wav",
+      "text": "azimuth: 165.9; elevation: -4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class1_src2_seg0224_chunk02.wav",
+      "text": "azimuth: 165.9; elevation: -4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix006_class1_src2_seg0225_chunk03.wav",
+      "text": "azimuth: 165.9; elevation: -4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class0_src2_seg0226_chunk00.wav",
+      "text": "azimuth: -111.1; elevation: -10.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class0_src2_seg0227_chunk01.wav",
+      "text": "azimuth: -111.1; elevation: -10.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class0_src2_seg0228_chunk02.wav",
+      "text": "azimuth: -111.1; elevation: -10.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class0_src2_seg0229_chunk00.wav",
+      "text": "azimuth: -111.4; elevation: -10.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class0_src2_seg0230_chunk01.wav",
+      "text": "azimuth: -111.4; elevation: -10.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src1_seg0231_chunk00.wav",
+      "text": "azimuth: -80.6; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src1_seg0232_chunk01.wav",
+      "text": "azimuth: -80.6; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src1_seg0233_chunk02.wav",
+      "text": "azimuth: -80.6; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src1_seg0234_chunk03.wav",
+      "text": "azimuth: -80.6; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src1_seg0235_chunk04.wav",
+      "text": "azimuth: -80.6; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src1_seg0236_chunk05.wav",
+      "text": "azimuth: -80.6; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src1_seg0237_chunk06.wav",
+      "text": "azimuth: -80.6; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src3_seg0238.wav",
+      "text": "azimuth: 105.4; elevation: 18.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src3_seg0239_chunk00.wav",
+      "text": "azimuth: 107.5; elevation: 15.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src3_seg0240_chunk01.wav",
+      "text": "azimuth: 107.5; elevation: 15.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src3_seg0241_chunk02.wav",
+      "text": "azimuth: 107.5; elevation: 15.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix006_class1_src3_seg0242_chunk03.wav",
+      "text": "azimuth: 107.5; elevation: 15.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class0_src2_seg0243_chunk00.wav",
+      "text": "azimuth: 39.6; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class0_src2_seg0244_chunk01.wav",
+      "text": "azimuth: 39.6; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class0_src2_seg0245_chunk02.wav",
+      "text": "azimuth: 39.6; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class0_src3_seg0246.wav",
+      "text": "azimuth: -31.5; elevation: -7.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class0_src3_seg0247.wav",
+      "text": "azimuth: -32.2; elevation: 2.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class1_src1_seg0248_chunk00.wav",
+      "text": "azimuth: 103.3; elevation: 5.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class1_src1_seg0249_chunk01.wav",
+      "text": "azimuth: 103.3; elevation: 5.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class1_src1_seg0250_chunk02.wav",
+      "text": "azimuth: 103.3; elevation: 5.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix004_class1_src1_seg0251_chunk03.wav",
+      "text": "azimuth: 103.3; elevation: 5.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix006_class1_src1_seg0252_chunk00.wav",
+      "text": "azimuth: -122.0; elevation: -16.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix006_class1_src1_seg0253_chunk01.wav",
+      "text": "azimuth: -122.0; elevation: -16.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix006_class1_src1_seg0254_chunk02.wav",
+      "text": "azimuth: -122.0; elevation: -16.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix006_class1_src1_seg0255_chunk03.wav",
+      "text": "azimuth: -122.0; elevation: -16.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0256_chunk00.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0257_chunk01.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0258_chunk02.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0259_chunk03.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0260_chunk04.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0261_chunk05.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0262_chunk06.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0263_chunk07.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0264_chunk08.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0265_chunk09.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0266_chunk10.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class0_src1_seg0267_chunk11.wav",
+      "text": "azimuth: 36.1; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class1_src2_seg0268_chunk00.wav",
+      "text": "azimuth: -16.4; elevation: -19.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class1_src2_seg0269_chunk01.wav",
+      "text": "azimuth: -16.4; elevation: -19.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class1_src2_seg0270_chunk02.wav",
+      "text": "azimuth: -16.4; elevation: -19.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class1_src2_seg0271_chunk03.wav",
+      "text": "azimuth: -16.4; elevation: -19.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class1_src2_seg0272_chunk04.wav",
+      "text": "azimuth: -16.4; elevation: -19.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix003_class1_src2_seg0273_chunk05.wav",
+      "text": "azimuth: -16.4; elevation: -19.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix001_class1_src1_seg0274.wav",
+      "text": "azimuth: -76.6; elevation: -14.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix001_class1_src1_seg0275_chunk00.wav",
+      "text": "azimuth: -76.4; elevation: -14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix001_class1_src1_seg0276_chunk01.wav",
+      "text": "azimuth: -76.4; elevation: -14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix001_class1_src1_seg0277_chunk02.wav",
+      "text": "azimuth: -76.4; elevation: -14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class0_src3_seg0278_chunk00.wav",
+      "text": "azimuth: 111.5; elevation: -7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class0_src3_seg0279_chunk01.wav",
+      "text": "azimuth: 111.5; elevation: -7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0280.wav",
+      "text": "azimuth: -70.8; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0281_chunk00.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0282_chunk01.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0283_chunk02.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0284_chunk03.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0285_chunk04.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0286_chunk05.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0287_chunk06.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0288_chunk07.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0289_chunk08.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src1_seg0290_chunk09.wav",
+      "text": "azimuth: -68.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src2_seg0291_chunk00.wav",
+      "text": "azimuth: -117.2; elevation: -7.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix001_class1_src2_seg0292_chunk01.wav",
+      "text": "azimuth: -117.2; elevation: -7.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src2_seg0293_chunk00.wav",
+      "text": "azimuth: -53.7; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src2_seg0294_chunk01.wav",
+      "text": "azimuth: -53.7; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src3_seg0295.wav",
+      "text": "azimuth: 33.1; elevation: 2.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src3_seg0296_chunk00.wav",
+      "text": "azimuth: 32.3; elevation: 2.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src3_seg0297_chunk01.wav",
+      "text": "azimuth: 32.3; elevation: 2.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src3_seg0298_chunk02.wav",
+      "text": "azimuth: 32.3; elevation: 2.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src3_seg0299_chunk03.wav",
+      "text": "azimuth: 32.3; elevation: 2.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix002_class0_src3_seg0300_chunk04.wav",
+      "text": "azimuth: 32.3; elevation: 2.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src1_seg0301_chunk00.wav",
+      "text": "azimuth: -54.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src1_seg0302_chunk01.wav",
+      "text": "azimuth: -54.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src1_seg0303_chunk02.wav",
+      "text": "azimuth: -54.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src1_seg0304_chunk03.wav",
+      "text": "azimuth: -54.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src1_seg0305_chunk04.wav",
+      "text": "azimuth: -54.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src1_seg0306_chunk05.wav",
+      "text": "azimuth: -54.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src3_seg0307_chunk00.wav",
+      "text": "azimuth: 165.5; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src3_seg0308_chunk01.wav",
+      "text": "azimuth: 165.5; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class0_src3_seg0309_chunk02.wav",
+      "text": "azimuth: 165.5; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix008_class1_src2_seg0310.wav",
+      "text": "azimuth: 6.1; elevation: -4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src1_seg0311_chunk00.wav",
+      "text": "azimuth: 163.5; elevation: -10.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src1_seg0312_chunk01.wav",
+      "text": "azimuth: 163.5; elevation: -10.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src1_seg0313_chunk02.wav",
+      "text": "azimuth: 163.5; elevation: -10.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src1_seg0314_chunk00.wav",
+      "text": "azimuth: 166.8; elevation: -10.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src1_seg0315_chunk01.wav",
+      "text": "azimuth: 166.8; elevation: -10.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src1_seg0316_chunk02.wav",
+      "text": "azimuth: 166.8; elevation: -10.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src3_seg0317_chunk00.wav",
+      "text": "azimuth: 20.0; elevation: -10.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src3_seg0318_chunk01.wav",
+      "text": "azimuth: 20.0; elevation: -10.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src3_seg0319.wav",
+      "text": "azimuth: 21.4; elevation: -11.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src3_seg0320.wav",
+      "text": "azimuth: 17.7; elevation: -11.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class0_src3_seg0321.wav",
+      "text": "azimuth: 21.1; elevation: -11.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class1_src2_seg0322_chunk00.wav",
+      "text": "azimuth: -58.1; elevation: -4.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix007_class1_src2_seg0323_chunk01.wav",
+      "text": "azimuth: -58.1; elevation: -4.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class0_src2_seg0324_chunk00.wav",
+      "text": "azimuth: 18.2; elevation: -12.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class0_src2_seg0325_chunk01.wav",
+      "text": "azimuth: 18.2; elevation: -12.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class0_src2_seg0326.wav",
+      "text": "azimuth: 15.6; elevation: -12.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src1_seg0327_chunk00.wav",
+      "text": "azimuth: 91.1; elevation: -5.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src1_seg0328_chunk01.wav",
+      "text": "azimuth: 91.1; elevation: -5.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src3_seg0329_chunk00.wav",
+      "text": "azimuth: -66.6; elevation: -6.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src3_seg0330_chunk01.wav",
+      "text": "azimuth: -66.6; elevation: -6.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src3_seg0331_chunk02.wav",
+      "text": "azimuth: -66.6; elevation: -6.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src3_seg0332_chunk03.wav",
+      "text": "azimuth: -66.6; elevation: -6.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src3_seg0333_chunk04.wav",
+      "text": "azimuth: -66.6; elevation: -6.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix006_class1_src3_seg0334_chunk05.wav",
+      "text": "azimuth: -66.6; elevation: -6.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix002_class1_src1_seg0335.wav",
+      "text": "azimuth: -67.4; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix002_class1_src1_seg0336_chunk00.wav",
+      "text": "azimuth: -68.6; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix002_class1_src1_seg0337_chunk01.wav",
+      "text": "azimuth: -68.6; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix002_class1_src1_seg0338_chunk02.wav",
+      "text": "azimuth: -68.6; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix002_class1_src1_seg0339_chunk03.wav",
+      "text": "azimuth: -68.6; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix002_class1_src2_seg0340.wav",
+      "text": "azimuth: -113.9; elevation: -7.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix002_class1_src3_seg0341.wav",
+      "text": "azimuth: 90.0; elevation: -7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix013_class0_src2_seg0342.wav",
+      "text": "azimuth: -62.8; elevation: 2.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix013_class0_src2_seg0343.wav",
+      "text": "azimuth: -38.0; elevation: 1.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix013_class0_src2_seg0344.wav",
+      "text": "azimuth: -34.8; elevation: 0.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix013_class1_src3_seg0345.wav",
+      "text": "azimuth: 42.5; elevation: -0.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix013_class1_src3_seg0346.wav",
+      "text": "azimuth: 8.1; elevation: 16.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix013_class1_src3_seg0347.wav",
+      "text": "azimuth: 40.6; elevation: 5.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0348_chunk00.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0349_chunk01.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0350_chunk02.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0351_chunk03.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0352_chunk04.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0353_chunk05.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0354_chunk06.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src2_seg0355_chunk07.wav",
+      "text": "azimuth: 8.7; elevation: -4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src3_seg0356.wav",
+      "text": "azimuth: 24.2; elevation: 1.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src3_seg0357.wav",
+      "text": "azimuth: 100.9; elevation: 3.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src3_seg0358_chunk00.wav",
+      "text": "azimuth: 110.7; elevation: -10.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src3_seg0359_chunk01.wav",
+      "text": "azimuth: 110.7; elevation: -10.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class0_src3_seg0360_chunk02.wav",
+      "text": "azimuth: 110.7; elevation: -10.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class1_src1_seg0361_chunk00.wav",
+      "text": "azimuth: -68.3; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix001_class1_src1_seg0362_chunk01.wav",
+      "text": "azimuth: -68.3; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0363_chunk00.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0364_chunk01.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0365_chunk02.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0366_chunk03.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0367_chunk04.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0368_chunk05.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0369_chunk06.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0370_chunk07.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0371_chunk08.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class0_src1_seg0372_chunk09.wav",
+      "text": "azimuth: 34.8; elevation: -12.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0373_chunk00.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0374_chunk01.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0375_chunk02.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0376_chunk03.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0377_chunk04.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0378_chunk05.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0379_chunk06.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0380_chunk07.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix002_class1_src2_seg0381_chunk08.wav",
+      "text": "azimuth: -9.4; elevation: -13.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix008_class0_src1_seg0382.wav",
+      "text": "azimuth: -77.9; elevation: -12.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix008_class1_src2_seg0383_chunk00.wav",
+      "text": "azimuth: -115.9; elevation: -9.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix008_class1_src2_seg0384_chunk01.wav",
+      "text": "azimuth: -115.9; elevation: -9.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix008_class1_src2_seg0385_chunk02.wav",
+      "text": "azimuth: -115.9; elevation: -9.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix008_class1_src3_seg0386.wav",
+      "text": "azimuth: 107.8; elevation: 14.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class0_src3_seg0387_chunk00.wav",
+      "text": "azimuth: 112.0; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class0_src3_seg0388_chunk01.wav",
+      "text": "azimuth: 112.0; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class0_src3_seg0389.wav",
+      "text": "azimuth: 112.9; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class1_src1_seg0390_chunk00.wav",
+      "text": "azimuth: -69.6; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class1_src1_seg0391_chunk01.wav",
+      "text": "azimuth: -69.6; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class1_src1_seg0392_chunk02.wav",
+      "text": "azimuth: -69.6; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class1_src1_seg0393_chunk03.wav",
+      "text": "azimuth: -69.6; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class1_src2_seg0394.wav",
+      "text": "azimuth: -115.5; elevation: -6.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix004_class1_src2_seg0395.wav",
+      "text": "azimuth: -115.4; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix005_class1_src1_seg0396.wav",
+      "text": "azimuth: -120.1; elevation: -20.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix005_class1_src1_seg0397.wav",
+      "text": "azimuth: -114.8; elevation: -5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix005_class1_src1_seg0398.wav",
+      "text": "azimuth: -17.5; elevation: 2.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix005_class1_src1_seg0399.wav",
+      "text": "azimuth: -111.4; elevation: 3.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix005_class1_src1_seg0400.wav",
+      "text": "azimuth: -122.4; elevation: -16.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix004_class1_src1_seg0401_chunk00.wav",
+      "text": "azimuth: -120.2; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix004_class1_src1_seg0402_chunk01.wav",
+      "text": "azimuth: -120.2; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix004_class1_src1_seg0403_chunk02.wav",
+      "text": "azimuth: -120.2; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix009_class0_src2_seg0404_chunk00.wav",
+      "text": "azimuth: -79.0; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix009_class0_src2_seg0405_chunk01.wav",
+      "text": "azimuth: -79.0; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix009_class0_src2_seg0406_chunk02.wav",
+      "text": "azimuth: -79.0; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix009_class0_src2_seg0407_chunk03.wav",
+      "text": "azimuth: -79.0; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix009_class1_src1_seg0408_chunk00.wav",
+      "text": "azimuth: 85.7; elevation: -14.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix009_class1_src1_seg0409_chunk01.wav",
+      "text": "azimuth: 85.7; elevation: -14.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix009_class1_src1_seg0410_chunk02.wav",
+      "text": "azimuth: 85.7; elevation: -14.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class0_src2_seg0411.wav",
+      "text": "azimuth: -31.1; elevation: -6.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src1_seg0412.wav",
+      "text": "azimuth: -67.9; elevation: 4.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src1_seg0413.wav",
+      "text": "azimuth: -73.2; elevation: -6.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src1_seg0414.wav",
+      "text": "azimuth: -74.2; elevation: 1.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src1_seg0415.wav",
+      "text": "azimuth: -69.2; elevation: -0.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src1_seg0416.wav",
+      "text": "azimuth: -40.6; elevation: 6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src3_seg0417_chunk00.wav",
+      "text": "azimuth: -72.6; elevation: -10.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src3_seg0418_chunk01.wav",
+      "text": "azimuth: -72.6; elevation: -10.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix012_class1_src3_seg0419_chunk02.wav",
+      "text": "azimuth: -72.6; elevation: -10.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class0_src2_seg0420_chunk00.wav",
+      "text": "azimuth: -26.6; elevation: -8.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class0_src2_seg0421_chunk01.wav",
+      "text": "azimuth: -26.6; elevation: -8.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class0_src2_seg0422_chunk02.wav",
+      "text": "azimuth: -26.6; elevation: -8.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class0_src2_seg0423_chunk03.wav",
+      "text": "azimuth: -26.6; elevation: -8.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class0_src2_seg0424_chunk04.wav",
+      "text": "azimuth: -26.6; elevation: -8.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class0_src2_seg0425_chunk05.wav",
+      "text": "azimuth: -26.6; elevation: -8.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class1_src3_seg0426_chunk00.wav",
+      "text": "azimuth: -59.0; elevation: -5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class1_src3_seg0427_chunk01.wav",
+      "text": "azimuth: -59.0; elevation: -5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class1_src3_seg0428_chunk02.wav",
+      "text": "azimuth: -59.0; elevation: -5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class1_src3_seg0429_chunk03.wav",
+      "text": "azimuth: -59.0; elevation: -5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class1_src3_seg0430_chunk04.wav",
+      "text": "azimuth: -59.0; elevation: -5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix011_class1_src3_seg0431_chunk05.wav",
+      "text": "azimuth: -59.0; elevation: -5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class0_src2_seg0432_chunk00.wav",
+      "text": "azimuth: -109.9; elevation: -8.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class0_src2_seg0433_chunk01.wav",
+      "text": "azimuth: -109.9; elevation: -8.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class0_src2_seg0434_chunk02.wav",
+      "text": "azimuth: -109.9; elevation: -8.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src1_seg0435_chunk00.wav",
+      "text": "azimuth: -80.9; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src1_seg0436_chunk01.wav",
+      "text": "azimuth: -80.9; elevation: -8.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src3_seg0437_chunk00.wav",
+      "text": "azimuth: 106.5; elevation: 15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src3_seg0438_chunk01.wav",
+      "text": "azimuth: 106.5; elevation: 15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src3_seg0439_chunk02.wav",
+      "text": "azimuth: 106.5; elevation: 15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src3_seg0440_chunk03.wav",
+      "text": "azimuth: 106.5; elevation: 15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src3_seg0441_chunk04.wav",
+      "text": "azimuth: 106.5; elevation: 15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix005_class1_src3_seg0442_chunk05.wav",
+      "text": "azimuth: 106.5; elevation: 15.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix009_class0_src2_seg0443_chunk00.wav",
+      "text": "azimuth: -31.7; elevation: -7.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix009_class0_src2_seg0444_chunk01.wav",
+      "text": "azimuth: -31.7; elevation: -7.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix009_class0_src2_seg0445_chunk02.wav",
+      "text": "azimuth: -31.7; elevation: -7.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix009_class1_src3_seg0446_chunk00.wav",
+      "text": "azimuth: -88.6; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix009_class1_src3_seg0447_chunk01.wav",
+      "text": "azimuth: -88.6; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class0_src2_seg0448_chunk00.wav",
+      "text": "azimuth: -8.9; elevation: -18.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class0_src2_seg0449_chunk01.wav",
+      "text": "azimuth: -8.9; elevation: -18.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class0_src2_seg0450_chunk02.wav",
+      "text": "azimuth: -8.9; elevation: -18.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class0_src2_seg0451_chunk03.wav",
+      "text": "azimuth: -8.9; elevation: -18.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class0_src2_seg0452_chunk04.wav",
+      "text": "azimuth: -8.9; elevation: -18.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class0_src2_seg0453_chunk05.wav",
+      "text": "azimuth: -8.9; elevation: -18.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class0_src2_seg0454_chunk06.wav",
+      "text": "azimuth: -8.9; elevation: -18.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class1_src1_seg0455_chunk00.wav",
+      "text": "azimuth: 33.5; elevation: -13.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class1_src1_seg0456_chunk01.wav",
+      "text": "azimuth: 33.5; elevation: -13.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class1_src1_seg0457_chunk02.wav",
+      "text": "azimuth: 33.5; elevation: -13.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix005_class1_src1_seg0458_chunk03.wav",
+      "text": "azimuth: 33.5; elevation: -13.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class0_src1_seg0459_chunk00.wav",
+      "text": "azimuth: 35.2; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class0_src1_seg0460_chunk01.wav",
+      "text": "azimuth: 35.2; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class0_src1_seg0461_chunk02.wav",
+      "text": "azimuth: 35.2; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class0_src1_seg0462_chunk03.wav",
+      "text": "azimuth: 35.2; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class0_src1_seg0463_chunk04.wav",
+      "text": "azimuth: 35.2; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class1_src2_seg0464_chunk00.wav",
+      "text": "azimuth: -12.2; elevation: -11.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class1_src2_seg0465_chunk01.wav",
+      "text": "azimuth: -12.2; elevation: -11.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class1_src2_seg0466_chunk02.wav",
+      "text": "azimuth: -12.2; elevation: -11.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class1_src2_seg0467_chunk03.wav",
+      "text": "azimuth: -12.2; elevation: -11.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class1_src2_seg0468_chunk04.wav",
+      "text": "azimuth: -12.2; elevation: -11.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix001_class1_src2_seg0469_chunk05.wav",
+      "text": "azimuth: -12.2; elevation: -11.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix007_class0_src2_seg0470.wav",
+      "text": "azimuth: -68.2; elevation: -10.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix007_class1_src1_seg0471.wav",
+      "text": "azimuth: 109.9; elevation: 15.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix007_class1_src3_seg0472_chunk00.wav",
+      "text": "azimuth: -112.5; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room8_mix007_class1_src3_seg0473_chunk01.wav",
+      "text": "azimuth: -112.5; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix002_class1_src1_seg0474_chunk00.wav",
+      "text": "azimuth: 97.5; elevation: -15.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix002_class1_src1_seg0475_chunk01.wav",
+      "text": "azimuth: 97.5; elevation: -15.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix002_class1_src1_seg0476_chunk02.wav",
+      "text": "azimuth: 97.5; elevation: -15.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix002_class1_src1_seg0477_chunk00.wav",
+      "text": "azimuth: 96.6; elevation: -15.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix002_class1_src1_seg0478_chunk01.wav",
+      "text": "azimuth: 96.6; elevation: -15.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room10_mix002_class1_src1_seg0479_chunk02.wav",
+      "text": "azimuth: 96.6; elevation: -15.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src1_seg0480.wav",
+      "text": "azimuth: -130.5; elevation: 3.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src1_seg0481.wav",
+      "text": "azimuth: -157.8; elevation: -16.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src1_seg0482.wav",
+      "text": "azimuth: -158.9; elevation: -17.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src1_seg0483_chunk00.wav",
+      "text": "azimuth: -160.2; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src1_seg0484_chunk01.wav",
+      "text": "azimuth: -160.2; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src1_seg0485_chunk02.wav",
+      "text": "azimuth: -160.2; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src3_seg0486.wav",
+      "text": "azimuth: -56.1; elevation: -10.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src3_seg0487_chunk00.wav",
+      "text": "azimuth: -56.0; elevation: -10.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src3_seg0488_chunk01.wav",
+      "text": "azimuth: -56.0; elevation: -10.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class0_src3_seg0489_chunk02.wav",
+      "text": "azimuth: -56.0; elevation: -10.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class1_src2_seg0490.wav",
+      "text": "azimuth: 5.1; elevation: -4.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class1_src2_seg0491.wav",
+      "text": "azimuth: 9.3; elevation: -5.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class1_src2_seg0492.wav",
+      "text": "azimuth: -163.2; elevation: 12.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class1_src2_seg0493.wav",
+      "text": "azimuth: 5.0; elevation: 20.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room15_mix009_class1_src2_seg0494.wav",
+      "text": "azimuth: 9.5; elevation: -5.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix005_class0_src2_seg0495.wav",
+      "text": "azimuth: 11.6; elevation: -4.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix005_class0_src2_seg0496.wav",
+      "text": "azimuth: 32.6; elevation: -3.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix005_class0_src3_seg0497.wav",
+      "text": "azimuth: 35.0; elevation: 1.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix005_class0_src3_seg0498.wav",
+      "text": "azimuth: -40.1; elevation: 2.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0499_chunk00.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0500_chunk01.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0501_chunk02.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0502_chunk03.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0503_chunk04.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0504_chunk05.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0505_chunk06.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0506_chunk07.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0507_chunk08.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0508_chunk09.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0509_chunk10.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src1_seg0510_chunk11.wav",
+      "text": "azimuth: 36.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0511_chunk00.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0512_chunk01.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0513_chunk02.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0514_chunk03.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0515_chunk04.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0516_chunk05.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0517_chunk06.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0518_chunk07.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0519_chunk08.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0520_chunk09.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0521_chunk10.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0522_chunk11.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0523_chunk12.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0524_chunk13.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0525_chunk14.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room2_mix006_class1_src2_seg0526_chunk15.wav",
+      "text": "azimuth: -20.2; elevation: -21.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix010_class0_src2_seg0527.wav",
+      "text": "azimuth: -67.7; elevation: -6.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix010_class1_src1_seg0528.wav",
+      "text": "azimuth: -30.8; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix010_class1_src3_seg0529.wav",
+      "text": "azimuth: 15.6; elevation: -14.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix010_class1_src3_seg0530_chunk00.wav",
+      "text": "azimuth: 16.2; elevation: -14.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix010_class1_src3_seg0531_chunk01.wav",
+      "text": "azimuth: 16.2; elevation: -14.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix010_class1_src3_seg0532_chunk02.wav",
+      "text": "azimuth: 16.2; elevation: -14.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix014_class1_src1_seg0533.wav",
+      "text": "azimuth: 41.4; elevation: 5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix014_class1_src1_seg0534.wav",
+      "text": "azimuth: 139.3; elevation: 13.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/test/fold4_room16_mix014_class1_src1_seg0535.wav",
+      "text": "azimuth: 117.4; elevation: 13.2",
+      "task": "starss23",
+      "gender": "M"
+    }
+  ]
+}

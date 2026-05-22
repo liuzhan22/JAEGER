@@ -1,0 +1,69 @@
+# ./configs/config.yaml
+
+model:
+  # paths
+  # Qwen2.5-Omni-7B base model
+  qwen_path: "/path/to/Qwen2.5-Omni-7B"
+  audio_init_ckpt: ""
+  visual_init_ckpt: ""
+  ckpt: "/path/to/ckpt" # if not "", load SALMONN3D ckpt for training or evaluation
+  load_weights_only: True # Only effient when ckpt is not empty
+
+  # LoRA
+  lora: True
+  lora_rank: 64
+  lora_alpha: 128
+  lora_dropout: 0.05
+
+  trainable_modules:
+    - "visual"
+    # - "audio_tower.ln_post"
+    # - "audio_tower.proj"
+    - "audio_tower"
+
+  max_txt_len: 32768
+  multi_prompt: True
+  prompt_path: "/path/to/train_prompt.json"
+  test_prompt_path: "/path/to/test_prompt.json"
+
+  prompt_template: "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n{}<|im_end|>\n<|im_start|>assistant\n"
+  end_sym: "<|im_end|>"
+
+  low_resource: False
+  device_8bit: 0
+
+datasets:
+  train_ann_path: "/path/to/train_ann.json"
+  valid_ann_path: "/path/to/valid_ann.json"
+  test_ann_path: "/path/to/test_ann.json"
+
+  tasks: null
+  enable_audio: True
+  enable_visual: True
+
+run:
+  # log & settings
+  wandb_project: "name_of_your_wandb_project"
+  wandb_run_name: "name_of_your_wandb_run"
+
+  seed: 42
+  output_dir: "/path/to/output"
+  evaluate: False # if True, only evaluate model on test data
+
+  log_freq: 10
+  accum_grad_iters: 1
+  batch_size_train: 3
+  batch_size_eval: 1
+  num_workers: 0
+
+  save_strategy: "steps" # "steps" or "epoch"
+  save_steps: 200 # not used if save_strategy is "epoch"
+  eval_strategy: "steps" # "no" or same as save_strategy
+  eval_steps: 200 # same as save_steps
+
+  # optimizer & scheduler
+  optims:
+    max_epoch: 20
+    warmup_steps: 150
+    peak_lr: 1e-6
+    weight_decay: 0.05

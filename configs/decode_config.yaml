@@ -1,0 +1,30 @@
+# ./configs/decode_config.yaml
+
+model:
+  # paths
+  # Qwen2.5-Omni-7B base model
+  qwen_path: "/path/to/Qwen2.5-Omni-7B"
+  ckpt: "/path/to/ckpt" # if not "", load SALMONN3D ckpt for training or evaluation
+
+  # LoRA
+  lora: True
+  lora_rank: 64
+  lora_alpha: 128
+  lora_dropout: 0.05
+
+  prompt_path: "/path/to/train_prompt.json"
+  test_prompt_path: "/path/to/test_prompt.json"
+
+  prompt_template: "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n{}<|im_end|>\n<|im_start|>assistant\n"
+  end_sym: "<|im_end|>"
+
+  low_resource: False
+  device_8bit: 0
+
+datasets:
+  test_ann_path: "/path/to/test_ann.json"
+
+run:
+  seed: 42
+  output_dir: "/path/to/output"
+  num_workers: 0

@@ -1,0 +1,8 @@
+{
+    "spatial_doa": "Based on the audio cues, please output the precise azimuth and elevation. Note: Azimuth 0° is straight ahead, positive to the left, range [-180°, 180°]; Elevation 0° is horizontal, positive upwards, range [-90°, 90°].",
+    "visual_grounding": "Identify the 3D boxes for the {obj_category} in this scene. Follow this format: bbox_i=Bbox(category, x, y, z, dx, dy, dz)",
+    "multi_spatial_doa": "Where is the {gender} voice coming from? Output azimuth and elevation.",
+    "single_source": "Determine which speaker corresponds to the audio source.",
+    "dual_source": "Identify the source speaker for the {gender} voice.",
+    "starss23": "Where is the {gender} voice coming from? Output azimuth and elevation."
+}

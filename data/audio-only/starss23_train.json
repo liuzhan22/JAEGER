@@ -1,0 +1,4522 @@
+{
+  "annotation": [
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix004_class1_src1_seg0000.wav",
+      "text": "azimuth: -96.9; elevation: -14.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix004_class1_src2_seg0001.wav",
+      "text": "azimuth: -47.5; elevation: -44.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix024_class1_src1_seg0002.wav",
+      "text": "azimuth: 35.8; elevation: -4.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix001_class0_src3_seg0003.wav",
+      "text": "azimuth: 49.5; elevation: -18.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix001_class0_src3_seg0004.wav",
+      "text": "azimuth: 52.8; elevation: -21.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix001_class1_src1_seg0005.wav",
+      "text": "azimuth: -171.5; elevation: -4.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix001_class1_src1_seg0006.wav",
+      "text": "azimuth: 17.6; elevation: -33.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix001_class1_src1_seg0007.wav",
+      "text": "azimuth: -2.2; elevation: -9.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix001_class1_src2_seg0008.wav",
+      "text": "azimuth: 35.3; elevation: -18.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix001_class1_src4_seg0009.wav",
+      "text": "azimuth: 79.4; elevation: -27.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src1_seg0010.wav",
+      "text": "azimuth: -118.3; elevation: 1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src1_seg0011.wav",
+      "text": "azimuth: -115.8; elevation: 0.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src1_seg0012.wav",
+      "text": "azimuth: -123.4; elevation: 0.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src2_seg0013.wav",
+      "text": "azimuth: -70.3; elevation: -43.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src2_seg0014.wav",
+      "text": "azimuth: -91.3; elevation: -5.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src2_seg0015.wav",
+      "text": "azimuth: -95.1; elevation: -4.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src2_seg0016.wav",
+      "text": "azimuth: -107.6; elevation: -3.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix003_class1_src2_seg0017.wav",
+      "text": "azimuth: -99.5; elevation: -3.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class0_src2_seg0018.wav",
+      "text": "azimuth: 46.1; elevation: -26.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class0_src2_seg0019.wav",
+      "text": "azimuth: 49.3; elevation: -25.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class1_src1_seg0020.wav",
+      "text": "azimuth: 0.9; elevation: -23.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class1_src1_seg0021_chunk00.wav",
+      "text": "azimuth: 6.9; elevation: -24.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class1_src1_seg0022_chunk01.wav",
+      "text": "azimuth: 6.9; elevation: -24.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class1_src3_seg0023.wav",
+      "text": "azimuth: 22.5; elevation: -21.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class1_src4_seg0024_chunk00.wav",
+      "text": "azimuth: 12.8; elevation: -40.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix011_class1_src4_seg0025_chunk01.wav",
+      "text": "azimuth: 12.8; elevation: -40.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix023_class1_src1_seg0026_chunk00.wav",
+      "text": "azimuth: 127.6; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix023_class1_src1_seg0027_chunk01.wav",
+      "text": "azimuth: 127.6; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix023_class1_src1_seg0028_chunk02.wav",
+      "text": "azimuth: 127.6; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix012_class1_src1_seg0029_chunk00.wav",
+      "text": "azimuth: -122.9; elevation: -35.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix012_class1_src1_seg0030_chunk01.wav",
+      "text": "azimuth: -122.9; elevation: -35.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix012_class1_src1_seg0031_chunk02.wav",
+      "text": "azimuth: -122.9; elevation: -35.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix012_class1_src1_seg0032_chunk03.wav",
+      "text": "azimuth: -122.9; elevation: -35.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix012_class1_src1_seg0033.wav",
+      "text": "azimuth: -129.1; elevation: -29.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix012_class1_src2_seg0034.wav",
+      "text": "azimuth: -107.0; elevation: -42.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix012_class1_src2_seg0035.wav",
+      "text": "azimuth: -103.4; elevation: -40.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src1_seg0036.wav",
+      "text": "azimuth: -35.7; elevation: -21.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src1_seg0037.wav",
+      "text": "azimuth: -97.2; elevation: 0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src1_seg0038.wav",
+      "text": "azimuth: -106.1; elevation: 0.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src1_seg0039.wav",
+      "text": "azimuth: 74.3; elevation: 0.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src2_seg0040.wav",
+      "text": "azimuth: 43.3; elevation: -1.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src2_seg0041.wav",
+      "text": "azimuth: -83.0; elevation: -0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src2_seg0042.wav",
+      "text": "azimuth: -75.3; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix018_class1_src2_seg0043.wav",
+      "text": "azimuth: -35.5; elevation: -1.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src1_seg0044_chunk00.wav",
+      "text": "azimuth: -100.9; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src1_seg0045_chunk01.wav",
+      "text": "azimuth: -100.9; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src1_seg0046_chunk02.wav",
+      "text": "azimuth: -100.9; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src1_seg0047.wav",
+      "text": "azimuth: -112.8; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src2_seg0048.wav",
+      "text": "azimuth: -82.0; elevation: -10.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src2_seg0049_chunk00.wav",
+      "text": "azimuth: -82.7; elevation: 2.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src2_seg0050_chunk01.wav",
+      "text": "azimuth: -82.7; elevation: 2.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix008_class1_src2_seg0051.wav",
+      "text": "azimuth: -88.9; elevation: 2.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix006_class1_src1_seg0052.wav",
+      "text": "azimuth: -79.0; elevation: -16.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix006_class1_src2_seg0053.wav",
+      "text": "azimuth: -163.3; elevation: -21.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class0_src2_seg0054_chunk00.wav",
+      "text": "azimuth: 61.5; elevation: -22.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class0_src2_seg0055_chunk01.wav",
+      "text": "azimuth: 61.5; elevation: -22.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class0_src2_seg0056_chunk02.wav",
+      "text": "azimuth: 61.5; elevation: -22.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class0_src2_seg0057_chunk03.wav",
+      "text": "azimuth: 61.5; elevation: -22.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class1_src1_seg0058_chunk00.wav",
+      "text": "azimuth: 38.7; elevation: -17.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class1_src1_seg0059_chunk01.wav",
+      "text": "azimuth: 38.7; elevation: -17.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class1_src1_seg0060_chunk02.wav",
+      "text": "azimuth: 38.7; elevation: -17.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix004_class1_src3_seg0061.wav",
+      "text": "azimuth: 85.6; elevation: -26.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix026_class1_src1_seg0062.wav",
+      "text": "azimuth: 65.3; elevation: -34.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix026_class1_src1_seg0063.wav",
+      "text": "azimuth: 67.3; elevation: -36.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix026_class1_src2_seg0064.wav",
+      "text": "azimuth: -179.2; elevation: -19.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix026_class1_src2_seg0065.wav",
+      "text": "azimuth: 165.5; elevation: -23.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix026_class1_src3_seg0066_chunk00.wav",
+      "text": "azimuth: 108.0; elevation: -17.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix026_class1_src3_seg0067_chunk01.wav",
+      "text": "azimuth: 108.0; elevation: -17.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src1_seg0068.wav",
+      "text": "azimuth: -114.0; elevation: -0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src1_seg0069.wav",
+      "text": "azimuth: -122.1; elevation: 0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src1_seg0070.wav",
+      "text": "azimuth: -119.7; elevation: 0.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src1_seg0071.wav",
+      "text": "azimuth: -126.2; elevation: 0.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src2_seg0072.wav",
+      "text": "azimuth: -56.2; elevation: -45.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src2_seg0073.wav",
+      "text": "azimuth: -41.9; elevation: -47.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src2_seg0074.wav",
+      "text": "azimuth: -42.9; elevation: -47.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src2_seg0075.wav",
+      "text": "azimuth: -59.9; elevation: -43.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix002_class1_src2_seg0076.wav",
+      "text": "azimuth: -90.2; elevation: -4.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src1_seg0077.wav",
+      "text": "azimuth: -163.1; elevation: -4.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src1_seg0078.wav",
+      "text": "azimuth: 165.3; elevation: -23.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src1_seg0079.wav",
+      "text": "azimuth: 160.7; elevation: -14.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src1_seg0080.wav",
+      "text": "azimuth: -3.8; elevation: -2.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src1_seg0081.wav",
+      "text": "azimuth: 156.5; elevation: -25.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src1_seg0082.wav",
+      "text": "azimuth: 168.4; elevation: -23.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src2_seg0083.wav",
+      "text": "azimuth: 124.7; elevation: -15.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src2_seg0084.wav",
+      "text": "azimuth: 126.3; elevation: -15.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix022_class1_src2_seg0085.wav",
+      "text": "azimuth: 121.4; elevation: -14.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src1_seg0086.wav",
+      "text": "azimuth: 172.3; elevation: -21.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src1_seg0087.wav",
+      "text": "azimuth: 144.9; elevation: -29.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src1_seg0088.wav",
+      "text": "azimuth: 167.2; elevation: -21.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src1_seg0089.wav",
+      "text": "azimuth: 172.0; elevation: -19.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src2_seg0090.wav",
+      "text": "azimuth: 51.1; elevation: -34.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src2_seg0091.wav",
+      "text": "azimuth: 55.7; elevation: -35.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src2_seg0092.wav",
+      "text": "azimuth: 55.1; elevation: -33.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src3_seg0093.wav",
+      "text": "azimuth: 103.8; elevation: -18.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src3_seg0094_chunk00.wav",
+      "text": "azimuth: 107.4; elevation: -17.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix025_class1_src3_seg0095_chunk01.wav",
+      "text": "azimuth: 107.4; elevation: -17.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix020_class1_src1_seg0096.wav",
+      "text": "azimuth: -55.2; elevation: -20.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix019_class1_src1_seg0097.wav",
+      "text": "azimuth: -93.0; elevation: -1.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix019_class1_src1_seg0098.wav",
+      "text": "azimuth: -101.0; elevation: -0.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix019_class1_src1_seg0099.wav",
+      "text": "azimuth: -98.7; elevation: -1.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix019_class1_src1_seg0100.wav",
+      "text": "azimuth: 25.9; elevation: -1.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix019_class1_src2_seg0101.wav",
+      "text": "azimuth: -60.6; elevation: -16.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix019_class1_src2_seg0102.wav",
+      "text": "azimuth: -46.1; elevation: -17.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix007_class1_src1_seg0103.wav",
+      "text": "azimuth: -174.7; elevation: -19.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix007_class1_src1_seg0104.wav",
+      "text": "azimuth: -175.2; elevation: -19.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix007_class1_src2_seg0105_chunk00.wav",
+      "text": "azimuth: -80.9; elevation: -18.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix007_class1_src2_seg0106_chunk01.wav",
+      "text": "azimuth: -80.9; elevation: -18.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix003_class0_src3_seg0107_chunk00.wav",
+      "text": "azimuth: 60.6; elevation: -19.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix003_class0_src3_seg0108_chunk01.wav",
+      "text": "azimuth: 60.6; elevation: -19.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix003_class1_src1_seg0109.wav",
+      "text": "azimuth: 83.1; elevation: -27.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix003_class1_src2_seg0110.wav",
+      "text": "azimuth: 38.8; elevation: -17.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix016_class1_src1_seg0111.wav",
+      "text": "azimuth: 101.7; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix016_class1_src1_seg0112.wav",
+      "text": "azimuth: -106.8; elevation: -2.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix016_class1_src2_seg0113.wav",
+      "text": "azimuth: 177.9; elevation: -19.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class0_src1_seg0114_chunk00.wav",
+      "text": "azimuth: 86.5; elevation: -32.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class0_src1_seg0115_chunk01.wav",
+      "text": "azimuth: 86.5; elevation: -32.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class0_src1_seg0116_chunk02.wav",
+      "text": "azimuth: 86.5; elevation: -32.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class0_src1_seg0117.wav",
+      "text": "azimuth: 86.1; elevation: -35.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class1_src2_seg0118_chunk00.wav",
+      "text": "azimuth: 38.6; elevation: -17.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class1_src2_seg0119_chunk01.wav",
+      "text": "azimuth: 38.6; elevation: -17.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class1_src2_seg0120_chunk02.wav",
+      "text": "azimuth: 38.6; elevation: -17.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class1_src2_seg0121_chunk03.wav",
+      "text": "azimuth: 38.6; elevation: -17.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix005_class1_src3_seg0122.wav",
+      "text": "azimuth: 58.6; elevation: -17.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix006_class0_src2_seg0123.wav",
+      "text": "azimuth: 85.7; elevation: -34.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix006_class0_src2_seg0124.wav",
+      "text": "azimuth: 86.5; elevation: -34.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix006_class1_src1_seg0125.wav",
+      "text": "azimuth: 38.3; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix006_class1_src3_seg0126.wav",
+      "text": "azimuth: 58.8; elevation: -18.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src1_seg0127_chunk00.wav",
+      "text": "azimuth: 104.2; elevation: -17.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src1_seg0128_chunk01.wav",
+      "text": "azimuth: 104.2; elevation: -17.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src1_seg0129.wav",
+      "text": "azimuth: 108.2; elevation: -19.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src2_seg0130.wav",
+      "text": "azimuth: 162.0; elevation: -25.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src2_seg0131.wav",
+      "text": "azimuth: 168.5; elevation: -23.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src2_seg0132.wav",
+      "text": "azimuth: 160.7; elevation: -23.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src3_seg0133.wav",
+      "text": "azimuth: 87.6; elevation: -42.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix029_class1_src3_seg0134.wav",
+      "text": "azimuth: 69.9; elevation: -36.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix001_class1_src1_seg0135_chunk00.wav",
+      "text": "azimuth: -99.1; elevation: -16.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix001_class1_src1_seg0136_chunk01.wav",
+      "text": "azimuth: -99.1; elevation: -16.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix001_class1_src1_seg0137_chunk02.wav",
+      "text": "azimuth: -99.1; elevation: -16.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix001_class1_src2_seg0138.wav",
+      "text": "azimuth: -52.8; elevation: -39.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix001_class1_src2_seg0139.wav",
+      "text": "azimuth: -53.8; elevation: -41.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix001_class1_src2_seg0140.wav",
+      "text": "azimuth: -47.0; elevation: -42.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src1_seg0141_chunk00.wav",
+      "text": "azimuth: 179.9; elevation: -21.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src1_seg0142_chunk01.wav",
+      "text": "azimuth: 179.9; elevation: -21.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src1_seg0143_chunk02.wav",
+      "text": "azimuth: 179.9; elevation: -21.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src2_seg0144_chunk00.wav",
+      "text": "azimuth: 97.2; elevation: -15.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src2_seg0145_chunk01.wav",
+      "text": "azimuth: 97.2; elevation: -15.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src2_seg0146_chunk02.wav",
+      "text": "azimuth: 97.2; elevation: -15.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src2_seg0147.wav",
+      "text": "azimuth: -92.4; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix017_class1_src2_seg0148.wav",
+      "text": "azimuth: 96.6; elevation: -15.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix009_class0_src4_seg0149.wav",
+      "text": "azimuth: 30.6; elevation: -31.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix009_class1_src1_seg0150.wav",
+      "text": "azimuth: -3.6; elevation: -25.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix009_class1_src1_seg0151.wav",
+      "text": "azimuth: 1.8; elevation: -27.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix009_class1_src2_seg0152.wav",
+      "text": "azimuth: 10.1; elevation: -23.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix009_class1_src3_seg0153.wav",
+      "text": "azimuth: 39.6; elevation: -20.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix014_class1_src1_seg0154_chunk00.wav",
+      "text": "azimuth: 98.9; elevation: -16.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix014_class1_src1_seg0155_chunk01.wav",
+      "text": "azimuth: 98.9; elevation: -16.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix014_class1_src2_seg0156_chunk00.wav",
+      "text": "azimuth: -175.9; elevation: -19.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix014_class1_src2_seg0157_chunk01.wav",
+      "text": "azimuth: -175.9; elevation: -19.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix014_class1_src2_seg0158_chunk02.wav",
+      "text": "azimuth: -175.9; elevation: -19.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix005_class1_src1_seg0159.wav",
+      "text": "azimuth: -159.0; elevation: -21.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix005_class1_src1_seg0160.wav",
+      "text": "azimuth: -156.5; elevation: -22.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix005_class1_src2_seg0161_chunk00.wav",
+      "text": "azimuth: -80.0; elevation: -13.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix005_class1_src2_seg0162_chunk01.wav",
+      "text": "azimuth: -80.0; elevation: -13.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix005_class1_src2_seg0163_chunk02.wav",
+      "text": "azimuth: -80.0; elevation: -13.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class0_src4_seg0164.wav",
+      "text": "azimuth: 58.1; elevation: -18.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class0_src4_seg0165.wav",
+      "text": "azimuth: 57.9; elevation: -19.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class0_src4_seg0166_chunk00.wav",
+      "text": "azimuth: 53.7; elevation: -22.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class0_src4_seg0167_chunk01.wav",
+      "text": "azimuth: 53.7; elevation: -22.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class1_src1_seg0168.wav",
+      "text": "azimuth: 77.6; elevation: -28.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class1_src1_seg0169.wav",
+      "text": "azimuth: 43.6; elevation: -17.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class1_src1_seg0170.wav",
+      "text": "azimuth: 76.9; elevation: -30.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class1_src1_seg0171.wav",
+      "text": "azimuth: 91.2; elevation: -27.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class1_src2_seg0172_chunk00.wav",
+      "text": "azimuth: 35.4; elevation: -17.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix002_class1_src2_seg0173_chunk01.wav",
+      "text": "azimuth: 35.4; elevation: -17.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src1_seg0174_chunk00.wav",
+      "text": "azimuth: 99.2; elevation: -19.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src1_seg0175_chunk01.wav",
+      "text": "azimuth: 99.2; elevation: -19.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src1_seg0176_chunk02.wav",
+      "text": "azimuth: 99.2; elevation: -19.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src1_seg0177_chunk03.wav",
+      "text": "azimuth: 99.2; elevation: -19.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src1_seg0178_chunk04.wav",
+      "text": "azimuth: 99.2; elevation: -19.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src1_seg0179.wav",
+      "text": "azimuth: 101.6; elevation: -18.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src2_seg0180_chunk00.wav",
+      "text": "azimuth: 169.7; elevation: -20.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix015_class1_src2_seg0181_chunk01.wav",
+      "text": "azimuth: 169.7; elevation: -20.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix013_class1_src1_seg0182_chunk00.wav",
+      "text": "azimuth: -179.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix013_class1_src1_seg0183_chunk01.wav",
+      "text": "azimuth: -179.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix013_class1_src2_seg0184_chunk00.wav",
+      "text": "azimuth: 98.9; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room21_mix013_class1_src2_seg0185_chunk01.wav",
+      "text": "azimuth: 98.9; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class0_src1_seg0186.wav",
+      "text": "azimuth: 32.7; elevation: -56.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class0_src1_seg0187.wav",
+      "text": "azimuth: 28.1; elevation: -55.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class0_src1_seg0188.wav",
+      "text": "azimuth: 25.4; elevation: -55.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src2_seg0189.wav",
+      "text": "azimuth: 47.8; elevation: -22.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src2_seg0190_chunk00.wav",
+      "text": "azimuth: 48.4; elevation: -23.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src2_seg0191_chunk01.wav",
+      "text": "azimuth: 48.4; elevation: -23.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src3_seg0192.wav",
+      "text": "azimuth: 6.0; elevation: -27.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src3_seg0193.wav",
+      "text": "azimuth: 5.3; elevation: -26.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src4_seg0194_chunk00.wav",
+      "text": "azimuth: 32.8; elevation: -19.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src4_seg0195_chunk01.wav",
+      "text": "azimuth: 32.8; elevation: -19.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room22_mix010_class1_src4_seg0196_chunk02.wav",
+      "text": "azimuth: 32.8; elevation: -19.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class0_src1_seg0197_chunk00.wav",
+      "text": "azimuth: 122.5; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class0_src1_seg0198_chunk01.wav",
+      "text": "azimuth: 122.5; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class0_src1_seg0199_chunk02.wav",
+      "text": "azimuth: 122.5; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class0_src1_seg0200_chunk03.wav",
+      "text": "azimuth: 122.5; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class0_src1_seg0201_chunk04.wav",
+      "text": "azimuth: 122.5; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class0_src1_seg0202_chunk05.wav",
+      "text": "azimuth: 122.5; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class0_src1_seg0203_chunk06.wav",
+      "text": "azimuth: 122.5; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0204.wav",
+      "text": "azimuth: -12.6; elevation: 6.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0205.wav",
+      "text": "azimuth: -8.9; elevation: 2.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0206.wav",
+      "text": "azimuth: -14.6; elevation: 6.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0207.wav",
+      "text": "azimuth: -5.7; elevation: 2.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0208.wav",
+      "text": "azimuth: -5.8; elevation: 2.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0209.wav",
+      "text": "azimuth: 0.9; elevation: 1.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0210_chunk00.wav",
+      "text": "azimuth: 0.6; elevation: 2.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix003_class1_src2_seg0211_chunk01.wav",
+      "text": "azimuth: 0.6; elevation: 2.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class0_src1_seg0212.wav",
+      "text": "azimuth: -118.9; elevation: -16.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class0_src1_seg0213.wav",
+      "text": "azimuth: -127.5; elevation: -21.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class0_src1_seg0214.wav",
+      "text": "azimuth: -130.1; elevation: -22.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class0_src2_seg0215_chunk00.wav",
+      "text": "azimuth: 124.4; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class0_src2_seg0216_chunk01.wav",
+      "text": "azimuth: 124.4; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class0_src2_seg0217_chunk02.wav",
+      "text": "azimuth: 124.4; elevation: -17.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class0_src2_seg0218.wav",
+      "text": "azimuth: 123.4; elevation: -18.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class1_src3_seg0219_chunk00.wav",
+      "text": "azimuth: -7.6; elevation: -6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class1_src3_seg0220_chunk01.wav",
+      "text": "azimuth: -7.6; elevation: -6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class1_src3_seg0221_chunk02.wav",
+      "text": "azimuth: -7.6; elevation: -6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class1_src3_seg0222_chunk03.wav",
+      "text": "azimuth: -7.6; elevation: -6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class1_src3_seg0223_chunk04.wav",
+      "text": "azimuth: -7.6; elevation: -6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class1_src3_seg0224_chunk05.wav",
+      "text": "azimuth: -7.6; elevation: -6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix007_class1_src3_seg0225_chunk06.wav",
+      "text": "azimuth: -7.6; elevation: -6.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src1_seg0226_chunk00.wav",
+      "text": "azimuth: 39.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src1_seg0227_chunk01.wav",
+      "text": "azimuth: 39.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src1_seg0228_chunk02.wav",
+      "text": "azimuth: 39.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src1_seg0229_chunk03.wav",
+      "text": "azimuth: 39.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src1_seg0230_chunk04.wav",
+      "text": "azimuth: 39.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src1_seg0231_chunk05.wav",
+      "text": "azimuth: 39.1; elevation: -16.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0232_chunk00.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0233_chunk01.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0234_chunk02.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0235_chunk03.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0236_chunk04.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0237_chunk05.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0238_chunk06.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0239_chunk07.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0240_chunk08.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0241_chunk09.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0242_chunk10.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0243_chunk11.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0244_chunk12.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0245_chunk13.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix002_class1_src2_seg0246_chunk14.wav",
+      "text": "azimuth: -50.3; elevation: -11.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src1_seg0247_chunk00.wav",
+      "text": "azimuth: -177.1; elevation: -14.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src1_seg0248_chunk01.wav",
+      "text": "azimuth: -177.1; elevation: -14.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src1_seg0249_chunk02.wav",
+      "text": "azimuth: -177.1; elevation: -14.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src1_seg0250_chunk03.wav",
+      "text": "azimuth: -177.1; elevation: -14.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src2_seg0251_chunk00.wav",
+      "text": "azimuth: 154.9; elevation: -13.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src2_seg0252_chunk01.wav",
+      "text": "azimuth: 154.9; elevation: -13.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src2_seg0253_chunk02.wav",
+      "text": "azimuth: 154.9; elevation: -13.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class0_src2_seg0254_chunk03.wav",
+      "text": "azimuth: 154.9; elevation: -13.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class1_src3_seg0255_chunk00.wav",
+      "text": "azimuth: -17.9; elevation: -10.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix006_class1_src3_seg0256_chunk01.wav",
+      "text": "azimuth: -17.9; elevation: -10.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0257_chunk00.wav",
+      "text": "azimuth: -11.9; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0258_chunk01.wav",
+      "text": "azimuth: -11.9; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0259_chunk02.wav",
+      "text": "azimuth: -11.9; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0260_chunk03.wav",
+      "text": "azimuth: -11.9; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0261_chunk04.wav",
+      "text": "azimuth: -11.9; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0262_chunk05.wav",
+      "text": "azimuth: -11.9; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0263_chunk06.wav",
+      "text": "azimuth: -11.9; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0264.wav",
+      "text": "azimuth: 71.3; elevation: -5.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0265.wav",
+      "text": "azimuth: 71.3; elevation: -7.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class0_src1_seg0266.wav",
+      "text": "azimuth: -12.2; elevation: -12.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0267_chunk00.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0268_chunk01.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0269_chunk02.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0270_chunk03.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0271_chunk04.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0272_chunk05.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0273_chunk06.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0274_chunk07.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix003_class1_src2_seg0275_chunk08.wav",
+      "text": "azimuth: -110.1; elevation: -7.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src2_seg0276_chunk00.wav",
+      "text": "azimuth: 52.9; elevation: 5.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src2_seg0277_chunk01.wav",
+      "text": "azimuth: 52.9; elevation: 5.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src2_seg0278_chunk00.wav",
+      "text": "azimuth: 38.5; elevation: 4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src2_seg0279_chunk01.wav",
+      "text": "azimuth: 38.5; elevation: 4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src2_seg0280_chunk02.wav",
+      "text": "azimuth: 38.5; elevation: 4.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0281_chunk00.wav",
+      "text": "azimuth: -46.4; elevation: 6.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0282_chunk01.wav",
+      "text": "azimuth: -46.4; elevation: 6.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0283_chunk02.wav",
+      "text": "azimuth: -46.4; elevation: 6.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0284_chunk00.wav",
+      "text": "azimuth: -49.8; elevation: 7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0285_chunk01.wav",
+      "text": "azimuth: -49.8; elevation: 7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0286_chunk02.wav",
+      "text": "azimuth: -49.8; elevation: 7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0287_chunk00.wav",
+      "text": "azimuth: -43.5; elevation: 6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0288_chunk01.wav",
+      "text": "azimuth: -43.5; elevation: 6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0289_chunk02.wav",
+      "text": "azimuth: -43.5; elevation: 6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0290_chunk03.wav",
+      "text": "azimuth: -43.5; elevation: 6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0291_chunk04.wav",
+      "text": "azimuth: -43.5; elevation: 6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0292.wav",
+      "text": "azimuth: -47.5; elevation: 6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0293.wav",
+      "text": "azimuth: -34.4; elevation: 4.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0294.wav",
+      "text": "azimuth: -42.0; elevation: 6.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class0_src3_seg0295.wav",
+      "text": "azimuth: -44.3; elevation: 6.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class1_src1_seg0296.wav",
+      "text": "azimuth: 6.2; elevation: 3.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class1_src1_seg0297_chunk00.wav",
+      "text": "azimuth: 0.3; elevation: 3.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class1_src1_seg0298_chunk01.wav",
+      "text": "azimuth: 0.3; elevation: 3.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class1_src1_seg0299_chunk02.wav",
+      "text": "azimuth: 0.3; elevation: 3.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class1_src1_seg0300_chunk03.wav",
+      "text": "azimuth: 0.3; elevation: 3.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix009_class1_src1_seg0301_chunk04.wav",
+      "text": "azimuth: 0.3; elevation: 3.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0302_chunk00.wav",
+      "text": "azimuth: 39.6; elevation: -17.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0303_chunk01.wav",
+      "text": "azimuth: 39.6; elevation: -17.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0304_chunk02.wav",
+      "text": "azimuth: 39.6; elevation: -17.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0305.wav",
+      "text": "azimuth: -103.5; elevation: 5.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0306_chunk00.wav",
+      "text": "azimuth: 40.0; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0307_chunk01.wav",
+      "text": "azimuth: 40.0; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0308_chunk02.wav",
+      "text": "azimuth: 40.0; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0309_chunk03.wav",
+      "text": "azimuth: 40.0; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src1_seg0310_chunk04.wav",
+      "text": "azimuth: 40.0; elevation: -15.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src2_seg0311.wav",
+      "text": "azimuth: -116.0; elevation: -8.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src2_seg0312_chunk00.wav",
+      "text": "azimuth: -32.8; elevation: 3.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src2_seg0313_chunk01.wav",
+      "text": "azimuth: -32.8; elevation: 3.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src2_seg0314_chunk00.wav",
+      "text": "azimuth: -116.7; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src2_seg0315_chunk01.wav",
+      "text": "azimuth: -116.7; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix003_class1_src2_seg0316_chunk02.wav",
+      "text": "azimuth: -116.7; elevation: -9.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src1_seg0317_chunk00.wav",
+      "text": "azimuth: -53.7; elevation: 8.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src1_seg0318_chunk01.wav",
+      "text": "azimuth: -53.7; elevation: 8.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src1_seg0319_chunk02.wav",
+      "text": "azimuth: -53.7; elevation: 8.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src1_seg0320_chunk03.wav",
+      "text": "azimuth: -53.7; elevation: 8.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src1_seg0321_chunk04.wav",
+      "text": "azimuth: -53.7; elevation: 8.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0322_chunk00.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0323_chunk01.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0324_chunk02.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0325_chunk03.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0326_chunk04.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0327_chunk05.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0328_chunk06.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class0_src2_seg0329_chunk07.wav",
+      "text": "azimuth: 4.3; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class1_src3_seg0330_chunk00.wav",
+      "text": "azimuth: 51.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class1_src3_seg0331_chunk01.wav",
+      "text": "azimuth: 51.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class1_src3_seg0332_chunk02.wav",
+      "text": "azimuth: 51.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class1_src3_seg0333_chunk03.wav",
+      "text": "azimuth: 51.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix002_class1_src3_seg0334_chunk04.wav",
+      "text": "azimuth: 51.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class0_src2_seg0335_chunk00.wav",
+      "text": "azimuth: 7.5; elevation: -12.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class0_src2_seg0336_chunk01.wav",
+      "text": "azimuth: 7.5; elevation: -12.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class0_src2_seg0337_chunk02.wav",
+      "text": "azimuth: 7.5; elevation: -12.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class0_src2_seg0338_chunk03.wav",
+      "text": "azimuth: 7.5; elevation: -12.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class1_src1_seg0339_chunk00.wav",
+      "text": "azimuth: -46.6; elevation: -6.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class1_src1_seg0340_chunk01.wav",
+      "text": "azimuth: -46.6; elevation: -6.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class1_src1_seg0341_chunk02.wav",
+      "text": "azimuth: -46.6; elevation: -6.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class1_src1_seg0342.wav",
+      "text": "azimuth: -43.1; elevation: -6.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class1_src1_seg0343_chunk00.wav",
+      "text": "azimuth: -47.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class1_src1_seg0344_chunk01.wav",
+      "text": "azimuth: -47.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix002_class1_src1_seg0345_chunk02.wav",
+      "text": "azimuth: -47.0; elevation: -7.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src1_seg0346_chunk00.wav",
+      "text": "azimuth: 52.7; elevation: -9.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src1_seg0347_chunk01.wav",
+      "text": "azimuth: 52.7; elevation: -9.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src1_seg0348_chunk02.wav",
+      "text": "azimuth: 52.7; elevation: -9.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src1_seg0349_chunk03.wav",
+      "text": "azimuth: 52.7; elevation: -9.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src2_seg0350.wav",
+      "text": "azimuth: 45.6; elevation: -8.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src2_seg0351_chunk00.wav",
+      "text": "azimuth: -27.4; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src2_seg0352_chunk01.wav",
+      "text": "azimuth: -27.4; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src2_seg0353_chunk02.wav",
+      "text": "azimuth: -27.4; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src2_seg0354_chunk03.wav",
+      "text": "azimuth: -27.4; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix001_class0_src2_seg0355_chunk04.wav",
+      "text": "azimuth: -27.4; elevation: -3.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class0_src1_seg0356.wav",
+      "text": "azimuth: -121.8; elevation: 5.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class0_src1_seg0357.wav",
+      "text": "azimuth: -126.1; elevation: 6.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class0_src1_seg0358.wav",
+      "text": "azimuth: 106.4; elevation: 10.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class0_src1_seg0359.wav",
+      "text": "azimuth: -13.9; elevation: -9.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class1_src2_seg0360_chunk00.wav",
+      "text": "azimuth: -106.0; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class1_src2_seg0361_chunk01.wav",
+      "text": "azimuth: -106.0; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class1_src2_seg0362_chunk02.wav",
+      "text": "azimuth: -106.0; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix006_class1_src2_seg0363_chunk03.wav",
+      "text": "azimuth: -106.0; elevation: -8.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0364_chunk00.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0365_chunk01.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0366_chunk02.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0367_chunk03.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0368_chunk04.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0369_chunk05.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0370_chunk06.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0371_chunk07.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class0_src2_seg0372_chunk08.wav",
+      "text": "azimuth: -105.1; elevation: -17.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0373.wav",
+      "text": "azimuth: 2.0; elevation: 2.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0374_chunk00.wav",
+      "text": "azimuth: 5.4; elevation: 2.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0375_chunk01.wav",
+      "text": "azimuth: 5.4; elevation: 2.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0376_chunk02.wav",
+      "text": "azimuth: 5.4; elevation: 2.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0377_chunk03.wav",
+      "text": "azimuth: 5.4; elevation: 2.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0378_chunk00.wav",
+      "text": "azimuth: 8.0; elevation: 3.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0379_chunk01.wav",
+      "text": "azimuth: 8.0; elevation: 3.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0380_chunk00.wav",
+      "text": "azimuth: 3.4; elevation: 3.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0381_chunk01.wav",
+      "text": "azimuth: 3.4; elevation: 3.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0382_chunk00.wav",
+      "text": "azimuth: 3.1; elevation: 3.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix006_class1_src1_seg0383_chunk01.wav",
+      "text": "azimuth: 3.1; elevation: 3.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class0_src1_seg0384_chunk00.wav",
+      "text": "azimuth: -170.0; elevation: -11.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class0_src1_seg0385_chunk01.wav",
+      "text": "azimuth: -170.0; elevation: -11.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class0_src1_seg0386_chunk02.wav",
+      "text": "azimuth: -170.0; elevation: -11.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class0_src1_seg0387_chunk03.wav",
+      "text": "azimuth: -170.0; elevation: -11.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class0_src1_seg0388_chunk04.wav",
+      "text": "azimuth: -170.0; elevation: -11.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class0_src1_seg0389_chunk05.wav",
+      "text": "azimuth: -170.0; elevation: -11.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class0_src1_seg0390_chunk06.wav",
+      "text": "azimuth: -170.0; elevation: -11.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class1_src2_seg0391_chunk00.wav",
+      "text": "azimuth: 121.0; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class1_src2_seg0392_chunk01.wav",
+      "text": "azimuth: 121.0; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class1_src2_seg0393_chunk02.wav",
+      "text": "azimuth: 121.0; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class1_src2_seg0394_chunk03.wav",
+      "text": "azimuth: 121.0; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class1_src2_seg0395_chunk04.wav",
+      "text": "azimuth: 121.0; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class1_src2_seg0396_chunk05.wav",
+      "text": "azimuth: 121.0; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix001_class1_src2_seg0397_chunk06.wav",
+      "text": "azimuth: 121.0; elevation: -11.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src1_seg0398_chunk00.wav",
+      "text": "azimuth: -50.6; elevation: -11.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src1_seg0399_chunk01.wav",
+      "text": "azimuth: -50.6; elevation: -11.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src1_seg0400_chunk02.wav",
+      "text": "azimuth: -50.6; elevation: -11.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src1_seg0401_chunk03.wav",
+      "text": "azimuth: -50.6; elevation: -11.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src1_seg0402_chunk04.wav",
+      "text": "azimuth: -50.6; elevation: -11.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src2_seg0403_chunk00.wav",
+      "text": "azimuth: -114.2; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src2_seg0404_chunk01.wav",
+      "text": "azimuth: -114.2; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src2_seg0405_chunk02.wav",
+      "text": "azimuth: -114.2; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix001_class1_src2_seg0406_chunk03.wav",
+      "text": "azimuth: -114.2; elevation: -7.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class0_src2_seg0407_chunk00.wav",
+      "text": "azimuth: 2.5; elevation: 1.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class0_src2_seg0408_chunk01.wav",
+      "text": "azimuth: 2.5; elevation: 1.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class0_src2_seg0409.wav",
+      "text": "azimuth: -11.9; elevation: 2.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class0_src2_seg0410.wav",
+      "text": "azimuth: 0.7; elevation: 2.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class0_src3_seg0411.wav",
+      "text": "azimuth: -29.7; elevation: -9.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class1_src1_seg0412_chunk00.wav",
+      "text": "azimuth: 86.1; elevation: -21.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class1_src1_seg0413_chunk01.wav",
+      "text": "azimuth: 86.1; elevation: -21.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class1_src1_seg0414_chunk02.wav",
+      "text": "azimuth: 86.1; elevation: -21.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class1_src1_seg0415_chunk03.wav",
+      "text": "azimuth: 86.1; elevation: -21.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class1_src1_seg0416_chunk04.wav",
+      "text": "azimuth: 86.1; elevation: -21.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class1_src1_seg0417.wav",
+      "text": "azimuth: 62.2; elevation: -23.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix008_class1_src1_seg0418.wav",
+      "text": "azimuth: 79.0; elevation: -20.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class0_src1_seg0419_chunk00.wav",
+      "text": "azimuth: 169.6; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class0_src1_seg0420_chunk01.wav",
+      "text": "azimuth: 169.6; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class0_src1_seg0421_chunk02.wav",
+      "text": "azimuth: 169.6; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class0_src1_seg0422_chunk03.wav",
+      "text": "azimuth: 169.6; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class0_src1_seg0423_chunk04.wav",
+      "text": "azimuth: 169.6; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class0_src1_seg0424_chunk05.wav",
+      "text": "azimuth: 169.6; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class1_src2_seg0425_chunk00.wav",
+      "text": "azimuth: -19.7; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class1_src2_seg0426_chunk01.wav",
+      "text": "azimuth: -19.7; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class1_src2_seg0427_chunk02.wav",
+      "text": "azimuth: -19.7; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class1_src2_seg0428_chunk03.wav",
+      "text": "azimuth: -19.7; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class1_src2_seg0429_chunk04.wav",
+      "text": "azimuth: -19.7; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class1_src2_seg0430_chunk05.wav",
+      "text": "azimuth: -19.7; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix002_class1_src2_seg0431_chunk06.wav",
+      "text": "azimuth: -19.7; elevation: -12.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src1_seg0432_chunk00.wav",
+      "text": "azimuth: 39.8; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src1_seg0433_chunk01.wav",
+      "text": "azimuth: 39.8; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src1_seg0434_chunk02.wav",
+      "text": "azimuth: 39.8; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src1_seg0435_chunk03.wav",
+      "text": "azimuth: 39.8; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src1_seg0436_chunk04.wav",
+      "text": "azimuth: 39.8; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src1_seg0437_chunk05.wav",
+      "text": "azimuth: 39.8; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src1_seg0438_chunk06.wav",
+      "text": "azimuth: 39.8; elevation: -11.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0439_chunk00.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0440_chunk01.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0441_chunk02.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0442_chunk03.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0443_chunk04.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0444_chunk05.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0445_chunk06.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0446_chunk07.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0447_chunk08.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0448_chunk09.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0449_chunk10.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0450_chunk11.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0451_chunk12.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix004_class0_src2_seg0452_chunk13.wav",
+      "text": "azimuth: -37.3; elevation: -11.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix003_class0_src1_seg0453.wav",
+      "text": "azimuth: 96.9; elevation: -10.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix003_class0_src1_seg0454.wav",
+      "text": "azimuth: 97.0; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix003_class0_src1_seg0455.wav",
+      "text": "azimuth: 96.9; elevation: -8.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix003_class0_src1_seg0456.wav",
+      "text": "azimuth: 96.5; elevation: -8.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix003_class0_src1_seg0457.wav",
+      "text": "azimuth: 98.0; elevation: -8.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix003_class0_src2_seg0458_chunk00.wav",
+      "text": "azimuth: 53.5; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix003_class0_src2_seg0459_chunk01.wav",
+      "text": "azimuth: 53.5; elevation: -12.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix001_class0_src1_seg0460_chunk00.wav",
+      "text": "azimuth: 74.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix001_class0_src1_seg0461_chunk01.wav",
+      "text": "azimuth: 74.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix001_class0_src1_seg0462_chunk02.wav",
+      "text": "azimuth: 74.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix001_class0_src1_seg0463_chunk03.wav",
+      "text": "azimuth: 74.6; elevation: -7.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix001_class0_src2_seg0464.wav",
+      "text": "azimuth: 120.0; elevation: 1.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix001_class0_src2_seg0465.wav",
+      "text": "azimuth: 131.9; elevation: 0.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class0_src1_seg0466_chunk00.wav",
+      "text": "azimuth: -76.3; elevation: -2.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class0_src1_seg0467_chunk01.wav",
+      "text": "azimuth: -76.3; elevation: -2.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class1_src2_seg0468_chunk00.wav",
+      "text": "azimuth: -99.9; elevation: -10.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class1_src2_seg0469_chunk01.wav",
+      "text": "azimuth: -99.9; elevation: -10.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class1_src2_seg0470_chunk02.wav",
+      "text": "azimuth: -99.9; elevation: -10.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class1_src2_seg0471_chunk03.wav",
+      "text": "azimuth: -99.9; elevation: -10.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class1_src2_seg0472_chunk04.wav",
+      "text": "azimuth: -99.9; elevation: -10.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix006_class1_src2_seg0473_chunk05.wav",
+      "text": "azimuth: -99.9; elevation: -10.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src1_seg0474_chunk00.wav",
+      "text": "azimuth: -2.7; elevation: -14.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src1_seg0475_chunk01.wav",
+      "text": "azimuth: -2.7; elevation: -14.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src1_seg0476_chunk02.wav",
+      "text": "azimuth: -2.7; elevation: -14.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src1_seg0477_chunk03.wav",
+      "text": "azimuth: -2.7; elevation: -14.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src1_seg0478_chunk00.wav",
+      "text": "azimuth: -3.1; elevation: -15.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src1_seg0479_chunk01.wav",
+      "text": "azimuth: -3.1; elevation: -15.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src1_seg0480.wav",
+      "text": "azimuth: -2.5; elevation: -16.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0481_chunk00.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0482_chunk01.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0483_chunk02.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0484_chunk03.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0485_chunk04.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0486_chunk05.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0487_chunk06.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0488_chunk07.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0489_chunk08.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0490_chunk09.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix005_class0_src2_seg0491_chunk10.wav",
+      "text": "azimuth: -106.5; elevation: -19.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src1_seg0492_chunk00.wav",
+      "text": "azimuth: 1.7; elevation: -5.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src1_seg0493_chunk01.wav",
+      "text": "azimuth: 1.7; elevation: -5.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src1_seg0494_chunk02.wav",
+      "text": "azimuth: 1.7; elevation: -5.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src1_seg0495_chunk03.wav",
+      "text": "azimuth: 1.7; elevation: -5.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src2_seg0496_chunk00.wav",
+      "text": "azimuth: -66.1; elevation: -14.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src2_seg0497_chunk01.wav",
+      "text": "azimuth: -66.1; elevation: -14.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src2_seg0498_chunk02.wav",
+      "text": "azimuth: -66.1; elevation: -14.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src2_seg0499_chunk03.wav",
+      "text": "azimuth: -66.1; elevation: -14.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src2_seg0500_chunk04.wav",
+      "text": "azimuth: -66.1; elevation: -14.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class0_src2_seg0501_chunk05.wav",
+      "text": "azimuth: -66.1; elevation: -14.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class1_src3_seg0502_chunk00.wav",
+      "text": "azimuth: -33.0; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class1_src3_seg0503_chunk01.wav",
+      "text": "azimuth: -33.0; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class1_src3_seg0504_chunk02.wav",
+      "text": "azimuth: -33.0; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class1_src3_seg0505_chunk03.wav",
+      "text": "azimuth: -33.0; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class1_src3_seg0506_chunk04.wav",
+      "text": "azimuth: -33.0; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix001_class1_src3_seg0507_chunk05.wav",
+      "text": "azimuth: -33.0; elevation: -6.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0508_chunk00.wav",
+      "text": "azimuth: -111.6; elevation: -7.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0509_chunk01.wav",
+      "text": "azimuth: -111.6; elevation: -7.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0510_chunk02.wav",
+      "text": "azimuth: -111.6; elevation: -7.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0511_chunk00.wav",
+      "text": "azimuth: -149.2; elevation: 2.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0512_chunk01.wav",
+      "text": "azimuth: -149.2; elevation: 2.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0513_chunk02.wav",
+      "text": "azimuth: -149.2; elevation: 2.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0514.wav",
+      "text": "azimuth: -160.2; elevation: 2.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0515.wav",
+      "text": "azimuth: -168.0; elevation: -1.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0516_chunk00.wav",
+      "text": "azimuth: -110.5; elevation: -7.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class0_src1_seg0517_chunk01.wav",
+      "text": "azimuth: -110.5; elevation: -7.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0518_chunk00.wav",
+      "text": "azimuth: -17.4; elevation: -9.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0519_chunk01.wav",
+      "text": "azimuth: -17.4; elevation: -9.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0520_chunk02.wav",
+      "text": "azimuth: -17.4; elevation: -9.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0521_chunk03.wav",
+      "text": "azimuth: -17.4; elevation: -9.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0522_chunk00.wav",
+      "text": "azimuth: -3.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0523_chunk01.wav",
+      "text": "azimuth: -3.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0524_chunk02.wav",
+      "text": "azimuth: -3.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0525_chunk03.wav",
+      "text": "azimuth: -3.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0526_chunk04.wav",
+      "text": "azimuth: -3.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0527_chunk05.wav",
+      "text": "azimuth: -3.3; elevation: -9.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0528.wav",
+      "text": "azimuth: 106.4; elevation: 3.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix004_class1_src2_seg0529.wav",
+      "text": "azimuth: -11.7; elevation: -8.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix002_class0_src1_seg0530.wav",
+      "text": "azimuth: 2.0; elevation: 4.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix002_class0_src1_seg0531.wav",
+      "text": "azimuth: -1.3; elevation: 5.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix002_class0_src1_seg0532.wav",
+      "text": "azimuth: -1.4; elevation: 3.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix002_class0_src2_seg0533.wav",
+      "text": "azimuth: 137.8; elevation: -23.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix002_class0_src2_seg0534.wav",
+      "text": "azimuth: 132.2; elevation: -25.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src2_seg0535.wav",
+      "text": "azimuth: -119.0; elevation: -15.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src2_seg0536_chunk00.wav",
+      "text": "azimuth: -127.6; elevation: -15.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src2_seg0537_chunk01.wav",
+      "text": "azimuth: -127.6; elevation: -15.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src2_seg0538_chunk02.wav",
+      "text": "azimuth: -127.6; elevation: -15.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src2_seg0539_chunk03.wav",
+      "text": "azimuth: -127.6; elevation: -15.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0540_chunk00.wav",
+      "text": "azimuth: -2.9; elevation: -4.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0541_chunk01.wav",
+      "text": "azimuth: -2.9; elevation: -4.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0542_chunk02.wav",
+      "text": "azimuth: -2.9; elevation: -4.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0543_chunk03.wav",
+      "text": "azimuth: -2.9; elevation: -4.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0544_chunk04.wav",
+      "text": "azimuth: -2.9; elevation: -4.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0545_chunk05.wav",
+      "text": "azimuth: -2.9; elevation: -4.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0546_chunk06.wav",
+      "text": "azimuth: -2.9; elevation: -4.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0547_chunk00.wav",
+      "text": "azimuth: -0.8; elevation: -4.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class0_src3_seg0548_chunk01.wav",
+      "text": "azimuth: -0.8; elevation: -4.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix007_class1_src1_seg0549.wav",
+      "text": "azimuth: -10.7; elevation: 2.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src1_seg0550_chunk00.wav",
+      "text": "azimuth: -2.4; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src1_seg0551_chunk01.wav",
+      "text": "azimuth: -2.4; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src1_seg0552_chunk02.wav",
+      "text": "azimuth: -2.4; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src1_seg0553_chunk03.wav",
+      "text": "azimuth: -2.4; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src1_seg0554_chunk04.wav",
+      "text": "azimuth: -2.4; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src1_seg0555_chunk05.wav",
+      "text": "azimuth: -2.4; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0556_chunk00.wav",
+      "text": "azimuth: -32.6; elevation: -0.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0557_chunk01.wav",
+      "text": "azimuth: -32.6; elevation: -0.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0558_chunk02.wav",
+      "text": "azimuth: -32.6; elevation: -0.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0559.wav",
+      "text": "azimuth: -50.4; elevation: 9.5",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0560.wav",
+      "text": "azimuth: -46.7; elevation: 13.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0561_chunk00.wav",
+      "text": "azimuth: -29.8; elevation: -0.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0562_chunk01.wav",
+      "text": "azimuth: -29.8; elevation: -0.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0563_chunk02.wav",
+      "text": "azimuth: -29.8; elevation: -0.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0564_chunk03.wav",
+      "text": "azimuth: -29.8; elevation: -0.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix007_class1_src2_seg0565_chunk04.wav",
+      "text": "azimuth: -29.8; elevation: -0.4",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src1_seg0566_chunk00.wav",
+      "text": "azimuth: 52.7; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src1_seg0567_chunk01.wav",
+      "text": "azimuth: 52.7; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src1_seg0568_chunk02.wav",
+      "text": "azimuth: 52.7; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src2_seg0569_chunk00.wav",
+      "text": "azimuth: -99.1; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src2_seg0570_chunk01.wav",
+      "text": "azimuth: -99.1; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src2_seg0571_chunk02.wav",
+      "text": "azimuth: -99.1; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src2_seg0572_chunk03.wav",
+      "text": "azimuth: -99.1; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix002_class0_src2_seg0573_chunk04.wav",
+      "text": "azimuth: -99.1; elevation: -9.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src1_seg0574.wav",
+      "text": "azimuth: 122.1; elevation: -15.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src1_seg0575.wav",
+      "text": "azimuth: 114.5; elevation: -13.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src1_seg0576.wav",
+      "text": "azimuth: 100.6; elevation: -3.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src1_seg0577_chunk00.wav",
+      "text": "azimuth: 106.6; elevation: -17.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src1_seg0578_chunk01.wav",
+      "text": "azimuth: 106.6; elevation: -17.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src1_seg0579_chunk02.wav",
+      "text": "azimuth: 106.6; elevation: -17.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src1_seg0580.wav",
+      "text": "azimuth: 114.9; elevation: -18.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src2_seg0581_chunk00.wav",
+      "text": "azimuth: 78.1; elevation: 3.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src2_seg0582_chunk01.wav",
+      "text": "azimuth: 78.1; elevation: 3.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src2_seg0583.wav",
+      "text": "azimuth: -158.5; elevation: -15.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src2_seg0584_chunk00.wav",
+      "text": "azimuth: -161.4; elevation: -16.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class0_src2_seg0585_chunk01.wav",
+      "text": "azimuth: -161.4; elevation: -16.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class1_src3_seg0586.wav",
+      "text": "azimuth: -4.9; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class1_src3_seg0587.wav",
+      "text": "azimuth: 0.2; elevation: 2.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class1_src3_seg0588.wav",
+      "text": "azimuth: -35.3; elevation: 4.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix008_class1_src3_seg0589.wav",
+      "text": "azimuth: 0.7; elevation: 1.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src1_seg0590_chunk00.wav",
+      "text": "azimuth: -21.1; elevation: -9.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src1_seg0591_chunk01.wav",
+      "text": "azimuth: -21.1; elevation: -9.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src1_seg0592_chunk02.wav",
+      "text": "azimuth: -21.1; elevation: -9.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src1_seg0593.wav",
+      "text": "azimuth: -20.1; elevation: -9.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src2_seg0594_chunk00.wav",
+      "text": "azimuth: 51.1; elevation: -16.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src2_seg0595_chunk01.wav",
+      "text": "azimuth: 51.1; elevation: -16.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src2_seg0596_chunk02.wav",
+      "text": "azimuth: 51.1; elevation: -16.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src2_seg0597_chunk03.wav",
+      "text": "azimuth: 51.1; elevation: -16.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class0_src2_seg0598_chunk04.wav",
+      "text": "azimuth: 51.1; elevation: -16.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class1_src3_seg0599.wav",
+      "text": "azimuth: 34.0; elevation: -3.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class1_src3_seg0600_chunk00.wav",
+      "text": "azimuth: 33.3; elevation: -4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix003_class1_src3_seg0601_chunk01.wav",
+      "text": "azimuth: 33.3; elevation: -4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix004_class0_src1_seg0602.wav",
+      "text": "azimuth: 12.3; elevation: 5.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix004_class0_src2_seg0603.wav",
+      "text": "azimuth: -17.3; elevation: 0.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix004_class0_src2_seg0604.wav",
+      "text": "azimuth: -11.3; elevation: 0.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class0_src2_seg0605_chunk00.wav",
+      "text": "azimuth: -74.4; elevation: -14.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class0_src2_seg0606_chunk01.wav",
+      "text": "azimuth: -74.4; elevation: -14.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class0_src2_seg0607_chunk02.wav",
+      "text": "azimuth: -74.4; elevation: -14.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class0_src2_seg0608_chunk03.wav",
+      "text": "azimuth: -74.4; elevation: -14.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class0_src2_seg0609_chunk00.wav",
+      "text": "azimuth: -72.2; elevation: -14.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class0_src2_seg0610_chunk01.wav",
+      "text": "azimuth: -72.2; elevation: -14.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class1_src1_seg0611_chunk00.wav",
+      "text": "azimuth: -113.2; elevation: -10.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class1_src1_seg0612_chunk01.wav",
+      "text": "azimuth: -113.2; elevation: -10.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix007_class1_src1_seg0613_chunk02.wav",
+      "text": "azimuth: -113.2; elevation: -10.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0614_chunk00.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0615_chunk01.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0616_chunk02.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0617_chunk03.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0618_chunk04.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0619_chunk05.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0620_chunk06.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class0_src1_seg0621_chunk07.wav",
+      "text": "azimuth: 99.7; elevation: -12.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class1_src2_seg0622_chunk00.wav",
+      "text": "azimuth: -63.4; elevation: -15.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class1_src2_seg0623_chunk01.wav",
+      "text": "azimuth: -63.4; elevation: -15.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix008_class1_src2_seg0624_chunk02.wav",
+      "text": "azimuth: -63.4; elevation: -15.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class0_src2_seg0625.wav",
+      "text": "azimuth: -68.2; elevation: -16.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class0_src2_seg0626.wav",
+      "text": "azimuth: 20.5; elevation: -3.0",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class0_src2_seg0627_chunk00.wav",
+      "text": "azimuth: -37.7; elevation: -1.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class0_src2_seg0628_chunk01.wav",
+      "text": "azimuth: -37.7; elevation: -1.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class0_src2_seg0629_chunk02.wav",
+      "text": "azimuth: -37.7; elevation: -1.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class0_src2_seg0630_chunk03.wav",
+      "text": "azimuth: -37.7; elevation: -1.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class0_src2_seg0631_chunk04.wav",
+      "text": "azimuth: -37.7; elevation: -1.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class1_src1_seg0632_chunk00.wav",
+      "text": "azimuth: 52.3; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class1_src1_seg0633_chunk01.wav",
+      "text": "azimuth: 52.3; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class1_src1_seg0634_chunk02.wav",
+      "text": "azimuth: 52.3; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class1_src1_seg0635_chunk03.wav",
+      "text": "azimuth: 52.3; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class1_src1_seg0636_chunk04.wav",
+      "text": "azimuth: 52.3; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix005_class1_src1_seg0637_chunk05.wav",
+      "text": "azimuth: 52.3; elevation: -12.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0638_chunk00.wav",
+      "text": "azimuth: -3.5; elevation: -14.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0639_chunk01.wav",
+      "text": "azimuth: -3.5; elevation: -14.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0640_chunk02.wav",
+      "text": "azimuth: -3.5; elevation: -14.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0641_chunk03.wav",
+      "text": "azimuth: -3.5; elevation: -14.2",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0642_chunk00.wav",
+      "text": "azimuth: -3.2; elevation: -13.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0643_chunk01.wav",
+      "text": "azimuth: -3.2; elevation: -13.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0644_chunk02.wav",
+      "text": "azimuth: -3.2; elevation: -13.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0645_chunk03.wav",
+      "text": "azimuth: -3.2; elevation: -13.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0646_chunk04.wav",
+      "text": "azimuth: -3.2; elevation: -13.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src1_seg0647_chunk05.wav",
+      "text": "azimuth: -3.2; elevation: -13.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0648_chunk00.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0649_chunk01.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0650_chunk02.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0651_chunk03.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0652_chunk04.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0653_chunk05.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0654_chunk06.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0655_chunk07.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0656_chunk08.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0657_chunk09.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room7_mix006_class0_src2_seg0658_chunk10.wav",
+      "text": "azimuth: -75.4; elevation: -11.9",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix004_class0_src1_seg0659_chunk00.wav",
+      "text": "azimuth: -25.3; elevation: -9.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix004_class0_src1_seg0660_chunk01.wav",
+      "text": "azimuth: -25.3; elevation: -9.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix004_class0_src2_seg0661_chunk00.wav",
+      "text": "azimuth: 28.6; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix004_class0_src2_seg0662_chunk01.wav",
+      "text": "azimuth: 28.6; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix004_class0_src2_seg0663_chunk02.wav",
+      "text": "azimuth: 28.6; elevation: -6.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix004_class1_src3_seg0664_chunk00.wav",
+      "text": "azimuth: 2.5; elevation: -4.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix004_class1_src3_seg0665_chunk01.wav",
+      "text": "azimuth: 2.5; elevation: -4.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix004_class1_src1_seg0666.wav",
+      "text": "azimuth: -24.5; elevation: 25.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix004_class1_src1_seg0667.wav",
+      "text": "azimuth: -38.0; elevation: 25.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix004_class1_src1_seg0668.wav",
+      "text": "azimuth: -37.6; elevation: 24.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src1_seg0669_chunk00.wav",
+      "text": "azimuth: 99.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src1_seg0670_chunk01.wav",
+      "text": "azimuth: 99.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src1_seg0671_chunk02.wav",
+      "text": "azimuth: 99.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src1_seg0672_chunk03.wav",
+      "text": "azimuth: 99.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src1_seg0673_chunk04.wav",
+      "text": "azimuth: 99.1; elevation: -9.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src2_seg0674_chunk00.wav",
+      "text": "azimuth: -59.8; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src2_seg0675_chunk01.wav",
+      "text": "azimuth: -59.8; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src2_seg0676_chunk02.wav",
+      "text": "azimuth: -59.8; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room9_mix004_class0_src2_seg0677_chunk03.wav",
+      "text": "azimuth: -59.8; elevation: -14.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix008_class1_src2_seg0678_chunk00.wav",
+      "text": "azimuth: -175.5; elevation: -2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix008_class1_src2_seg0679_chunk01.wav",
+      "text": "azimuth: -175.5; elevation: -2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix008_class1_src2_seg0680_chunk02.wav",
+      "text": "azimuth: -175.5; elevation: -2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix008_class1_src2_seg0681_chunk03.wav",
+      "text": "azimuth: -175.5; elevation: -2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix008_class1_src2_seg0682_chunk04.wav",
+      "text": "azimuth: -175.5; elevation: -2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix008_class1_src2_seg0683_chunk05.wav",
+      "text": "azimuth: -175.5; elevation: -2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix008_class1_src2_seg0684_chunk06.wav",
+      "text": "azimuth: -175.5; elevation: -2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix001_class1_src2_seg0685_chunk00.wav",
+      "text": "azimuth: 179.6; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix001_class1_src2_seg0686_chunk01.wav",
+      "text": "azimuth: 179.6; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix001_class1_src2_seg0687_chunk02.wav",
+      "text": "azimuth: 179.6; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class0_src2_seg0688_chunk00.wav",
+      "text": "azimuth: -16.8; elevation: -10.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class0_src2_seg0689_chunk01.wav",
+      "text": "azimuth: -16.8; elevation: -10.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class0_src2_seg0690_chunk02.wav",
+      "text": "azimuth: -16.8; elevation: -10.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class0_src2_seg0691_chunk03.wav",
+      "text": "azimuth: -16.8; elevation: -10.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class1_src1_seg0692_chunk00.wav",
+      "text": "azimuth: -110.6; elevation: -7.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class1_src1_seg0693_chunk01.wav",
+      "text": "azimuth: -110.6; elevation: -7.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class1_src1_seg0694_chunk02.wav",
+      "text": "azimuth: -110.6; elevation: -7.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix005_class1_src1_seg0695_chunk03.wav",
+      "text": "azimuth: -110.6; elevation: -7.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix005_class0_src1_seg0696.wav",
+      "text": "azimuth: 101.2; elevation: -5.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix005_class0_src1_seg0697.wav",
+      "text": "azimuth: 105.0; elevation: -6.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix005_class0_src1_seg0698.wav",
+      "text": "azimuth: 106.7; elevation: -2.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix005_class1_src2_seg0699_chunk00.wav",
+      "text": "azimuth: -84.6; elevation: -17.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix005_class1_src2_seg0700_chunk01.wav",
+      "text": "azimuth: -84.6; elevation: -17.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src1_seg0701_chunk00.wav",
+      "text": "azimuth: -0.1; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src1_seg0702_chunk01.wav",
+      "text": "azimuth: -0.1; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src1_seg0703_chunk02.wav",
+      "text": "azimuth: -0.1; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src1_seg0704_chunk03.wav",
+      "text": "azimuth: -0.1; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src1_seg0705_chunk04.wav",
+      "text": "azimuth: -0.1; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src1_seg0706_chunk05.wav",
+      "text": "azimuth: -0.1; elevation: -1.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src2_seg0707_chunk00.wav",
+      "text": "azimuth: -30.3; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src2_seg0708_chunk01.wav",
+      "text": "azimuth: -30.3; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src2_seg0709_chunk02.wav",
+      "text": "azimuth: -30.3; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src2_seg0710_chunk03.wav",
+      "text": "azimuth: -30.3; elevation: -0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src2_seg0711.wav",
+      "text": "azimuth: -51.9; elevation: 12.1",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room4_mix006_class1_src2_seg0712.wav",
+      "text": "azimuth: -28.9; elevation: -0.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix003_class0_src1_seg0713.wav",
+      "text": "azimuth: 130.8; elevation: -19.4",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room14_mix003_class0_src2_seg0714.wav",
+      "text": "azimuth: 3.9; elevation: -8.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class0_src1_seg0715_chunk00.wav",
+      "text": "azimuth: -48.7; elevation: -9.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class0_src1_seg0716_chunk01.wav",
+      "text": "azimuth: -48.7; elevation: -9.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class0_src1_seg0717_chunk02.wav",
+      "text": "azimuth: -48.7; elevation: -9.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class0_src1_seg0718_chunk00.wav",
+      "text": "azimuth: -47.6; elevation: -9.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class0_src1_seg0719_chunk01.wav",
+      "text": "azimuth: -47.6; elevation: -9.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class0_src1_seg0720_chunk02.wav",
+      "text": "azimuth: -47.6; elevation: -9.7",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class1_src2_seg0721_chunk00.wav",
+      "text": "azimuth: -110.4; elevation: -6.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class1_src2_seg0722_chunk01.wav",
+      "text": "azimuth: -110.4; elevation: -6.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class1_src2_seg0723_chunk02.wav",
+      "text": "azimuth: -110.4; elevation: -6.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class1_src2_seg0724_chunk03.wav",
+      "text": "azimuth: -110.4; elevation: -6.6",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix001_class1_src2_seg0725.wav",
+      "text": "azimuth: 6.4; elevation: -7.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix009_class0_src1_seg0726.wav",
+      "text": "azimuth: 4.4; elevation: -0.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix009_class0_src2_seg0727.wav",
+      "text": "azimuth: -168.9; elevation: 1.8",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix009_class1_src3_seg0728.wav",
+      "text": "azimuth: 142.1; elevation: 5.3",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix009_class1_src3_seg0729_chunk00.wav",
+      "text": "azimuth: 134.9; elevation: 7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix009_class1_src3_seg0730_chunk01.wav",
+      "text": "azimuth: 134.9; elevation: 7.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix007_class1_src1_seg0731_chunk00.wav",
+      "text": "azimuth: 167.3; elevation: -9.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix007_class1_src1_seg0732_chunk01.wav",
+      "text": "azimuth: 167.3; elevation: -9.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room6_mix007_class1_src1_seg0733_chunk02.wav",
+      "text": "azimuth: 167.3; elevation: -9.9",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room13_mix005_class0_src2_seg0734.wav",
+      "text": "azimuth: -27.5; elevation: -7.3",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0735.wav",
+      "text": "azimuth: -24.2; elevation: -12.6",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0736_chunk00.wav",
+      "text": "azimuth: 165.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0737_chunk01.wav",
+      "text": "azimuth: 165.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0738_chunk02.wav",
+      "text": "azimuth: 165.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0739_chunk03.wav",
+      "text": "azimuth: 165.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0740_chunk04.wav",
+      "text": "azimuth: 165.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0741_chunk05.wav",
+      "text": "azimuth: 165.7; elevation: -18.1",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class0_src1_seg0742.wav",
+      "text": "azimuth: 162.1; elevation: -18.5",
+      "task": "starss23",
+      "gender": "F"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0743_chunk00.wav",
+      "text": "azimuth: -3.4; elevation: 0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0744_chunk01.wav",
+      "text": "azimuth: -3.4; elevation: 0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0745_chunk02.wav",
+      "text": "azimuth: -3.4; elevation: 0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0746.wav",
+      "text": "azimuth: -6.4; elevation: 0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0747.wav",
+      "text": "azimuth: -23.0; elevation: 4.2",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0748.wav",
+      "text": "azimuth: -99.9; elevation: 2.0",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0749.wav",
+      "text": "azimuth: -119.6; elevation: -0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0750.wav",
+      "text": "azimuth: -119.8; elevation: 0.7",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0751.wav",
+      "text": "azimuth: -117.4; elevation: 0.8",
+      "task": "starss23",
+      "gender": "M"
+    },
+    {
+      "path": "/path/to/STARSS23_mf/train/fold3_room12_mix004_class1_src2_seg0752.wav",
+      "text": "azimuth: -100.9; elevation: 4.2",
+      "task": "starss23",
+      "gender": "M"
+    }
+  ]
+}

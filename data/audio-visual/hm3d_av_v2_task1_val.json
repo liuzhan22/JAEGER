@@ -1,0 +1,2686 @@
+{
+    "annotation": [
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00001",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00002",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00005",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00007",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00011",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00013",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00014",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00017",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00019",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00020",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00021",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00025",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00026",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00028",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00029",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00033",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00039",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00041",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00043",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00046",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00047",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00048",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00050",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00054",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00057",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00060",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00061",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00062",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00064",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00043-Jfyvj3xn2aJ/task1_00066",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00067",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00068",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00069",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00070",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00071",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00074",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00077",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00079",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00082",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00085",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00086",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00089",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00091",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00094",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00096",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00097",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00098",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00099",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00101",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00105",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00110",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00111",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00112",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00115",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00118",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00119",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00120",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00121",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00123",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00124",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00126",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00131",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00132",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00081-5biL7VEkByM/task1_00133",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00134",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00135",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00139",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00145",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00146",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00147",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00153",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00154",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00155",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00156",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00157",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00159",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00161",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00162",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00165",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00166",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00167",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00168",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00169",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00171",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00172",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00173",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00174",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00176",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00177",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00178",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00179",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00180",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00181",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00189",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00190",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00191",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00192",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00193",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00197",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00199",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00087-YY8rqV6L6rf/task1_00200",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00201",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00206",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00211",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00212",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00213",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00218",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00220",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00224",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00227",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00228",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00230",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00231",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00233",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00234",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00237",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00239",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00243",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00245",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00248",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00251",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00252",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00253",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00254",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00255",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00256",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00258",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00259",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00262",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00263",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00143-5Kw4nGdqYtS/task1_00266",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00268",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00269",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00270",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00274",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00275",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00276",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00277",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00279",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00280",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00281",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00282",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00283",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00284",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00285",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00286",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00287",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00289",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00292",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00293",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00296",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00299",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00300",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00304",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00311",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00312",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00314",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00315",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00316",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00319",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00322",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00323",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00324",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00326",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00329",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00333",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00210-j2EJhFEQGCL/task1_00334",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00336",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00337",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00338",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00339",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00340",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00344",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00346",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00348",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00352",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00354",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00355",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00360",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00361",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00362",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00363",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00364",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00365",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00367",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00370",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00373",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00376",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00377",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00378",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00381",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00387",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00395",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00401",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00402",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00403",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00404",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00407",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00327-xgLmjqzoAzF/task1_00408",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00412",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00414",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00415",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00419",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00422",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00423",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00428",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00429",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00432",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00437",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00441",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00443",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00445",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00449",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00454",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00455",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00456",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00461",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00463",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00466",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00468",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00470",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00471",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00476",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00382-S7uMvxjBVZq/task1_00477",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00483",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00485",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00487",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00488",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00490",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00491",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00495",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00496",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00497",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00502",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00504",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00510",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00511",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00512",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00518",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00522",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00524",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00527",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00530",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00531",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00533",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00536",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00538",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00540",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00546",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00554",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00401-H8rQCnvBgo6/task1_00556",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00631",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00632",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00633",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00635",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00636",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00637",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00639",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00640",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00641",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00642",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00643",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00644",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00645",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00646",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00647",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00648",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00649",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00652",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00653",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00654",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00655",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00657",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00658",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00659",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00660",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00662",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00663",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00665",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00666",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00667",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00668",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00669",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00670",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00671",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00672",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00673",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00674",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00675",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00677",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00678",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00679",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00681",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00682",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00683",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00684",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00685",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00686",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00687",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00689",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00691",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00692",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00693",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00695",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00696",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00697",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00698",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00700",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00701",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00569-YJDUB7hWg9h/task1_00702",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00706",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00713",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00714",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00715",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00716",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00719",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00722",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00723",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00724",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00726",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00727",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00728",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00729",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00730",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00734",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00735",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00736",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00739",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00740",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00742",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00744",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00748",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00749",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00750",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00751",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00755",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00757",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00761",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00763",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00764",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00765",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00766",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00767",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00768",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00770",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00772",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00775",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00624-ooq3SnvC79d/task1_00777",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00781",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00784",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00786",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00787",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00789",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00791",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00792",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00794",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00796",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00800",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00801",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00804",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00806",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00810",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00812",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00815",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00821",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00822",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00823",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00825",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00826",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00827",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00828",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00830",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00831",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00832",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00839",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00840",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00845",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00680-YmWinf3mhb5/task1_00848",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00853",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00854",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00855",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00858",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00863",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00864",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00865",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00876",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00877",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00878",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00879",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00880",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00884",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00888",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00893",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00898",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00899",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00901",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00906",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00907",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00910",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00911",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00912",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00914",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00924",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00688-SgkmkWjjmDJ/task1_00926",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00927",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00928",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00930",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00931",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00932",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00933",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00934",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00935",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00936",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00938",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00939",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00940",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00941",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00942",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00943",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00944",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00947",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00949",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00951",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00952",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00956",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00957",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00958",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00963",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00964",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00966",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00970",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00973",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00977",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00978",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00979",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00982",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00983",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00986",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00987",
+            "num_speakers": 3,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00988",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00989",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00991",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00992",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00994",
+            "num_speakers": 2,
+            "text": "Left",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00995",
+            "num_speakers": 3,
+            "text": "Right",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00996",
+            "num_speakers": 3,
+            "text": "Center",
+            "task": "single_source"
+        },
+        {
+            "path": "/path/to/simulation_ds/hm3d/hm3d_foa_av_v2/val/00745-yX5efd48dLf/task1_00997",
+            "num_speakers": 2,
+            "text": "Right",
+            "task": "single_source"
+        }
+    ]
+}

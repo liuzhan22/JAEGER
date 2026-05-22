@@ -1,0 +1,58 @@
+{
+    "spatial_doa": [
+        "Based on the audio cues, output the azimuth and elevation. Note: Azimuth 0° is front, positive left, range [-180°, 180°]; Elevation 0° is horizontal, positive up, range [-90°, 90°].",
+        "Locate the sound source. Definition: Azimuth (0°=front, +=left, range [-180, 180]), Elevation (0°=level, +=up, range [-90, 90]).",
+        "Determine the direction of arrival. Azimuth origin is straight ahead, positive to the left [-180, 180]. Elevation origin is eye level, positive upwards [-90, 90].",
+        "Provide precise coordinates. Coordinate system: Azimuth [-180, 180] (0 is front, left is positive); Elevation [-90, 90] (0 is horizontal, up is positive).",
+        "What are the azimuth and elevation angles? Recall that Azimuth 0 is front/positive left [-180, 180] and Elevation 0 is flat/positive up [-90, 90].",
+        "Estimate the spatial location. Use this scale: Azimuth [-180 to 180] (0=front, left+), Elevation [-90 to 90] (0=horizontal, up+).",
+        "Give me the numerical azimuth and elevation. Azimuth: 0 is front, positive left [-180, 180]. Elevation: 0 is horizontal, positive up [-90, 90].",
+        "Where is the sound coming from? Output precise values with Azimuth 0° at front (left +, range -180 to 180) and Elevation 0° at horizon (up +, range -90 to 90).",
+        "Analyze the DoA. System: Azimuth [-180, 180] (0=front, +left), Elevation [-90, 90] (0=level, +up).",
+        "Output the angle of the sound source. Define Azimuth: 0 is front, positive left, [-180, 180]. Define Elevation: 0 is horizontal, positive up, [-90, 90]."
+    ],
+    "multi_spatial_doa": [
+        "Based on the audio, determine the azimuth and elevation of the {gender} speaker.",
+        "Locate the {gender} speaker. Output azimuth and elevation.",
+        "Where is the {gender} voice coming from? Provide spatial coordinates.",
+        "Find the direction of the {gender} speaker in the overlapping audio.",
+        "Identify the spatial position of the {gender} speaker."
+    ],
+    "visual_grounding": [
+        "Identify the 3D boxes for the {obj_category} in this scene. Follow this format: bbox_i=Bbox(category, x, y, z, dx, dy, dz)",
+        "Locate the {obj_category} in the room. Output their bounding boxes as bbox_i=Bbox(category, x, y, z, dx, dy, dz).",
+        "Please find the 3D bounding boxes for {obj_category}. The output format should be: bbox_i=Bbox(category, x, y, z, dx, dy, dz)",
+        "Detect the {obj_category} and provide their 3D coordinates. Use format: bbox_i=Bbox(category, x, y, z, dx, dy, dz)",
+        "Give me the 3D Bboxes for {obj_category}. Format: bbox_i=Bbox(category, x, y, z, dx, dy, dz)"
+    ],
+    "single_source": [
+        "Which speaker is producing the sound?",
+        "Locate the active loudspeaker.",
+        "Identify the speaker emitting the audio.",
+        "From the visible speakers, which one is active?",
+        "Determine which speaker corresponds to the audio source.",
+        "Find the sounding speaker in the scene.",
+        "Which speaker is playing the audio?",
+        "Indicate the location of the active speaker.",
+        "Match the audio to the correct loudspeaker."
+    ],
+    "dual_source": [
+        "Which speaker is emitting the {gender} voice?",
+        "Identify the source speaker for the {gender} voice.",
+        "From which loudspeaker is the {gender} voice coming?",
+        "Locate the speaker producing the {gender} sound.",
+        "The {gender} voice is coming from which speaker?",
+        "Find the speaker responsible for the {gender} audio.",
+        "Which of the speakers is playing the {gender} voice?",
+        "Determine which loudspeaker corresponds to the {gender} voice.",
+        "Can you tell which speaker the {gender} voice originates from?",
+        "Please point out the speaker source of the {gender} voice."
+    ],
+    "starss23": [
+        "Based on the audio, determine the azimuth and elevation of the {gender} speaker.",
+        "Locate the {gender} speaker. Output azimuth and elevation.",
+        "Where is the {gender} voice coming from? Provide spatial coordinates.",
+        "Find the direction of the {gender} speaker in the overlapping audio.",
+        "Identify the spatial position of the {gender} speaker."
+    ]
+}
