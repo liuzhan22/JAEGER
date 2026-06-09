@@ -61,6 +61,10 @@ Then download [Qwen2.5-Omni-7B](https://huggingface.co/Qwen/Qwen2.5-Omni-7B) and
 
 ## 🚀 Quick Start
 
+### Data Preparation
+
+Download the RIRs from [SpatialSceneQA](https://huggingface.co/tsinghua-ee/JAEGER/tree/main/datasets/SpatialSceneQA), then convolve them with dry monaural speech from [LibriSpeech](https://www.openslr.org/12) using [`data/data_tools/conv_ir_speaker_foa.py`](./data/data_tools/conv_ir_speaker_foa.py). For the train, validation, and test splits, we use `train-clean-100`, `dev-clean`, and `test-clean`, respectively.
+
 ### Training
 
 Prepare annotations following [`data/example_data.json`](./data/example_data.json), edit paths in [`configs/config.yaml`](./configs/config.yaml), and launch on **3 nodes × 8 × A100** (run on each node with `i ∈ {0, 1, 2}`):
