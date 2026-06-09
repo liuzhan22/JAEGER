@@ -11,8 +11,11 @@
     <a href="https://github.com/liuzhan22/JAEGER" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Code-blue" alt="GitHub Code">
     </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Dataset-Coming%20Soon-lightgrey.svg" alt="Dataset Coming Soon">
+    <a href="https://huggingface.co/tsinghua-ee/JAEGER/tree/main/datasets" target="_blank">
+      <img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow.svg" alt="Hugging Face Dataset">
+    </a>
+    <a href="https://huggingface.co/tsinghua-ee/JAEGER/tree/main/checkpoints" target="_blank">
+      <img src="https://img.shields.io/badge/HuggingFace-Checkpoints-yellow.svg" alt="Hugging Face Checkpoints">
     </a>
     <img src="https://img.shields.io/badge/License-Apache%202.0-green" alt="License">
 </div>
@@ -36,8 +39,6 @@ We present **JAEGER**, a framework that extends audio-visual LLMs from 2D to 3D 
 ## 📦 SpatialSceneQA Dataset
 
 A 61k-sample spatial audio-visual benchmark pairing RGB-D observations with 4-channel first-order ambisonic audio under degree-level 3D supervision. Annotation manifests live under [`data/`](./data); the JSON format follows [`data/example_data.json`](./data/example_data.json).
-
-> 🤗 The full HuggingFace release is **coming soon**.
 
 <div align="center">
   <img src="assets/data-pipeline.png" width="100%" alt="SpatialSceneQA data construction pipeline"/>
